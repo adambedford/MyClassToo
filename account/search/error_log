@@ -1,0 +1,2 @@
+[20-Sep-2011 01:19:21] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Link to server lost, unable to reconnect in /home/adam1234/public_html/resources/db.php on line 9
+[20-Sep-2011 01:19:21] PHP Fatal error:   in /home/adam1234/public_html/resources/db.php on line 9

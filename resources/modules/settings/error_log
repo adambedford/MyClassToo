@@ -1,0 +1,26 @@
+[27-Jun-2011 18:23:36] PHP Notice:  Undefined index:  u_id in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 5
+[27-Jun-2011 18:23:36] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:34:44] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:34:49] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:34:55] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:35:08] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:50:19] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:50:32] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:50:40] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:51:32] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:52:06] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:52:19] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:52:38] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:52:41] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:52:52] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:52:58] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:53:05] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:56:01] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:56:27] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:59:24] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[27-Jun-2011 18:59:32] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 15
+[28-Jun-2011 07:50:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'adam1234'@'int.vital.web8.x10hosting.com' (using password: NO) in /home/adam1234/public_html/resources/modules/settings/user_info.php on line 3
+[28-Jun-2011 07:50:24] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/adam1234/public_html/resources/modules/settings/user_info.php on line 3
+[28-Jun-2011 07:50:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'adam1234'@'int.vital.web8.x10hosting.com' (using password: NO) in /home/adam1234/public_html/resources/modules/settings/user_info.php on line 3
+[28-Jun-2011 07:50:30] PHP Warning:  mysql_query() [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/adam1234/public_html/resources/modules/settings/user_info.php on line 3
+[28-Jun-2011 07:51:22] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/modules/settings/user_info.php on line 5

@@ -1,0 +1,13 @@
+[12-Jan-2012 08:26:50] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 08:26:50] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 08:26:50] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[12-Jan-2012 08:27:09] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 08:27:09] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 08:27:09] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[12-Jan-2012 11:52:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[12-Jan-2012 11:52:04] PHP Notice:  Undefined index: m_search_txt in /home/adam1234/public_html/resources/modules/search/results_full.php on line 12
+[16-Jan-2012 11:39:31] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[16-Jan-2012 11:39:31] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[16-Jan-2012 11:39:31] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[16-Jan-2012 11:39:45] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[16-Jan-2012 11:39:47] PHP Notice:  Undefined index: m_search_txt in /home/adam1234/public_html/resources/modules/search/results_full.php on line 12

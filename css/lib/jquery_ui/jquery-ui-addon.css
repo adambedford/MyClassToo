@@ -1,0 +1,21 @@
+/*
+	Addon styles for jQuery UI CSS Framework
+*/
+.ui-state-success, .ui-widget-content .ui-state-success, .ui-widget-header .ui-state-success {
+	border: 1px solid #80FF80; background-color: #C1FFC1; color: #363636; 
+}
+
+.ui-autocomplete-loading {
+  background:  #F3F3F3 url("/img/layout/small_loader.gif") right center no-repeat;
+/*  background-image: url(/img/layout/small_loader.gif);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-color: transparent;
+*/}
+
+/* css for timepicker */
+.ui-timepicker-div .ui-widget-header{ margin-bottom: 8px; }
+.ui-timepicker-div dl{ text-align: left; }
+.ui-timepicker-div dl dt{ height: 25px; }
+.ui-timepicker-div dl dd{ margin: -25px 0 10px 65px; }
+.ui-timepicker-div td { font-size: 90%; }

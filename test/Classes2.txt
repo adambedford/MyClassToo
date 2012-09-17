@@ -1,0 +1,1764 @@
+ACCT 370@External Financial Reporting Issues
+ACCT 371a@Introduction to Accounting Systems
+ACCT 371b@Introduction to Accounting Systems
+ACCT 372@Internal Reporting Issues
+ACCT 373@Introduction to Assurance Services
+ACCT 374@Introduction to Tax Issues
+ACCT 410x@Foundations of Accounting
+ACCT 415@Intermediate Financial Accounting for Non-Accounting Majors
+ACCT 462@Detecting Fraudulent Financial Reporting
+ACCT 463@Internal Audit
+ACCT 470a@Advanced External Financial Reporting Issues
+ACCT 470b@Advanced External Financial Reporting Issues
+ACCT 472@Managerial Accounting
+ACCT 473@Financial Statement Auditing
+ACCT 474@Tax Issues for Business
+ACCT 490x@Directed Research
+AEST 100a@Aerospace Studies I (Air Force Mission and Organization)
+AEST 110a@Leadership Laboratory I
+AEST 200a@Aerospace Studies II (Air Force History)
+AEST 210a@Leadership Laboratory II
+AEST 220a@Advanced Leadership Laboratory II
+AEST 300a@Aerospace Studies III (Air Force Management and Leadership)
+AEST 310a@Leadership Laboratory III
+AEST 400a@Aerospace Studies IV (National Security Forces in Contemporary American Society)
+AEST 410a@Leadership Laboratory IV
+AEST 420a@Leadership Laboratory V
+AHIS 001x@Web Site Authoring and Design
+AHIS 100@Introduction to Visual Culture
+AHIS 120g@Foundations of Western Art
+AHIS 128g@Arts of Latin America
+AHIS 282@Korean Art
+AHIS 330@Medieval Art
+AHIS 344@Baroque Art
+AHIS 369@Modern Art II: 1851-1940
+AHIS 373@History of Photography
+AHIS 386@Early Japanese Art
+AHIS 400x@Undergraduate Apprenticeship
+AHIS 430@Studies in Renaissance Art
+AHIS 453@Studies in Baroque Art
+AHIS 460@Studies in 18th and 19th Century Art
+AHIS 465@Studies in American Art
+AHIS 468@Studies in Modern Art
+AHIS 470@Studies in Contemporary Art
+AHIS 490x@Directed Research
+AHIS 494@Undergraduate Proseminar in Art History
+AHIS 495a@Undergraduate Honors Thesis
+AHIS 495b@Undergraduate Honors Thesis
+AHIS 496@Paintings in the Prado Museum
+ALI 200@Elementary English as a Second Language for International Students
+ALI 224@Low Intermediate Oral Skills
+ALI 225@Low Intermediate Writing Skills
+ALI 234@Intermediate Oral Skills
+ALI 235@Intermediate Writing Skills
+ALI 242@High Intermediate Pronunciation
+ALI 244@High Intermediate Oral Skills
+ALI 245@High Intermediate Writing Skills
+ALI 254@Advanced Oral Skills
+ALI 255@Advanced Writing Skills
+ALI 270@Oral Skills for International Teaching Assistants
+ALI 271@Language Tutorial for International Teaching Assistants
+ALI 274@Advanced Academic and Professional Spoken English
+ALI 275@Writing for Publication and Dissertations
+AME 101L@Introduction to Mechanical Engineering and Graphics
+AME 105@Introduction to Aerospace Engineering
+AME 201@Statics
+AME 204@Strength of Materials
+AME 291@Undergraduate Design Projects I
+AME 301@Dynamics
+AME 302@Dynamic Systems
+AME 303@Dynamics of Machinery
+AME 305@Mechanical Design
+AME 308@Computer-Aided Analyses for Aero-Mechanical Design
+AME 309@Dynamics of Fluids
+AME 310@Engineering Thermodynamics I
+AME 341aL@Mechoptronics Laboratory
+AME 404@Mechanical Engineering Problems
+AME 408@Computer-Aided Design of Mechanical Systems
+AME 410@Engineering Design Theory and Methodology
+AME 420@Engineering Vibrations I
+AME 430@Thermal Systems Design
+AME 441aL@Senior Projects Laboratory
+AME 451@Linear Control Systems I
+AME 453@Engineering Dynamics
+AME 457@Engineering Fluid Dynamics
+AME 459@Flight Mechanics
+AME 461@Formation Evaluation
+AME 463L@Introduction to Transport Processes in Porous Media
+AME 465L@Drilling Technology and Subsurface Methods
+AME 490x@Directed Research
+AME 491@Undergraduate Design Projects II
+AME 499@Special Topics
+AMST 100gm@Los Angeles and the American Dream
+AMST 101gm@Race and Class in Los Angeles
+AMST 135gm@Peoples and Cultures of the Americas
+AMST 200m@Introduction to American Studies and Ethnicity
+AMST 252gm@Black Social Movements in the U.S.
+AMST 285m@African American Popular Culture
+AMST 301g@America, the Frontier, and the New West
+AMST 320@Social Construction of Race and Citizenship
+AMST 340m@Latina/o LA
+AMST 350@Junior Seminar in American Studies and Ethnicity: Theories and Methods
+AMST 353m@Race and Racism in the Americas
+AMST 373m@History of the Mexican American
+AMST 378m@Introduction to Asian American History
+AMST 380@American Popular Culture
+AMST 424m@Political Participation and American Diversity
+AMST 444m@Native American Literature
+AMST 458m@Race and Ethnicity in Entertainment and the Arts
+AMST 465@Studies in American Art
+AMST 490x@Directed Research
+AMST 492@Research Methods in American Studies and Ethnicity
+ANTH 100g@Principles of Human Organization: Non-Western Societies
+ANTH 125g@Social Issues in Human Sexuality and Reproduction
+ANTH 200Lg@The Origins of Humanity
+ANTH 201@Introduction to Social Anthropology
+ANTH 202@Introduction to Archaeology
+ANTH 263g@Exploring Culture Through Film
+ANTH 300@Evolution, Ecology, and Culture
+ANTH 305@Childhood, Birth and Reproduction
+ANTH 310@Archaeology of the Americas
+ANTH 314@The Nature of Maya Civilization
+ANTH 316gm@North American Indians in American Public Life
+ANTH 327@Anthropology of the Middle East and Islam
+ANTH 328m@Culture Change and the Mexican People
+ANTH 335@Comparative Muslim Societies
+ANTH 345@Politics, Social Organization, and Law
+ANTH 370@Family and Kinship in Cross-Cultural Perspective
+ANTH 372@Interpretation of Myth and Narrative
+ANTH 375@Applied Anthropology
+ANTH 410a@Ethnographic Field Methods and Practicum
+ANTH 440@History of Anthropological Theory
+ANTH 470@Multidisciplinary Seminar in Visual Anthropology
+ANTH 472@Visual Techniques in Anthropology: Stills
+ANTH 490x@Directed Research
+ANTH 491@Directed Research for Honors
+ARCH 102aL@Architectural Design I
+ARCH 105L@Fundamentals of Design Communication
+ARCH 106x@Workshop in Architecture
+ARCH 114@Architecture: Culture and Community
+ARCH 202aL@Architectural Design II
+ARCH 205aL@Building Science I
+ARCH 213a@Building Structures and Seismic Design
+ARCH 214b@History of Architecture
+ARCH 215@Design for the Thermal and Atmospheric Environment
+ARCH 220@The Architect's Sketchbook
+ARCH 302aL@Architectural Design III
+ARCH 304x@Intensive Survey: Prehistory to the Present
+ARCH 305aL@Building Science II
+ARCH 307@Digital Tools for Architecture
+ARCH 312@Urban Form and Architecture in Italy
+ARCH 313@Design of Building Structures
+ARCH 314@History of Architecture: Contemporary Issues
+ARCH 316@Place and Culture
+ARCH 370@Architectural Studies- Expanding the Field
+ARCH 402aL@Architectural Design IV
+ARCH 402bL@Architectural Design IV
+ARCH 402cL@Architectural Design IV
+ARCH 405aL@Building Science III
+ARCH 407@Advanced Computer Applications
+ARCH 420@Visual Communication and Graphic Expression
+ARCH 421@Digital Architectural Photography
+ARCH 422@Architectural Photography
+ARCH 424L@Field Studies in Architecture
+ARCH 425L@Field Studies in Urbanism
+ARCH 426L@Field Studies in Tectonics
+ARCH 441@A History of Architectural Theory: 1400-1914
+ARCH 442m@Women's Spaces in History: "Hussies", "Harems", and "Housewives"
+ARCH 444@Great Houses of Los Angeles
+ARCH 454@Contemporary Asian Architecture
+ARCH 481@Furniture Design
+ARCH 490x@Directed Research
+ARCH 499@Special Topics
+ARLT 100g@Arts and Letters
+ARLT 101g@Studies in Arts and Letters
+ASTE 101L@Introduction to Astronautics
+ASTE 291@Team Projects I
+ASTE 301a@Thermal and Statistical Systems
+ASTE 330@Astronautics and Space Environment II
+ASTE 445@Molecular Gas Dynamics
+ASTE 470@Spacecraft Propulsion
+ASTE 490x@Directed Research
+ASTE 491@Team Projects II
+ASTE 499@Special Topics
+ASTR 100Lxg@The Universe
+ASTR 104L@Special Laboratory
+ASTR 400@The Solar System
+ASTR 490x@Directed Research
+BAEP 423@Management of Small Businesses
+BAEP 450x@Fundamentals of Entrepreneurship
+BAEP 451@The Management of New Enterprises
+BAEP 452@Cases in Entrepreneurship
+BAEP 453@Venture Management
+BAEP 460@Seminar in Entrepreneurship
+BAEP 491@Introduction to Social Entrepreneurship
+BAEP 499@Special Topics
+BISC 102Lxg@Humans and Their Environment
+BISC 103Lx@General Biology for the Environment and Life
+BISC 104Lxg@How the Body Works: Topics in Human Physiology
+BISC 108L@Special Laboratory I
+BISC 120Lg@General Biology: Organismal Biology and Evolution
+BISC 121Lg@Advanced General Biology: Organismal Biology and Evolution
+BISC 150Lxg@The Nature of Human Health and Disease
+BISC 193@Freshman Colloquium I
+BISC 290@Introduction to Biological Research
+BISC 305@Introduction to Statistics for Biologists
+BISC 315L@Introduction to Ecology
+BISC 320L@Molecular Biology
+BISC 325@Genetics
+BISC 403@Advanced Molecular Biology
+BISC 406L@Biotechnology
+BISC 421@Neurobiology
+BISC 461@Seminar in Molecular and Computational Biology
+BISC 462@Seminar in Neurobiology
+BISC 469L@Marine Biology
+BISC 481@Modeling of Bio-macromolecules and Biological Systems
+BISC 490x@Directed Research
+BISC 493x@Honors Seminar
+BISC 494x@Honors Thesis
+BISC 499@Special Topics
+BME 101@Introduction to Biomedical Engineering
+BME 403@Physiological Systems
+BME 404@Biomechanics
+BME 405L@Senior Projects: Measurements and Instrumentation
+BME 410@Introduction to Biomaterials and Tissue Engineering
+BME 423@Statistical Methods in Biomedical Engineering
+BME 425@Basics of Biomedical Imaging
+BME 451@Fundamentals of Biomedical Microdevices
+BME 452@Introduction to Biomimetic Neural Engineering
+BME 490x@Directed Research
+BUAD 100x@Foundations of Finance and Accounting
+BUAD 101@Freshman Leadership Seminar
+BUAD 200x@Economic Foundations for Business
+BUAD 215x@Foundations of Business Finance
+BUAD 250b@Core Concepts of Accounting Information
+BUAD 280@Accounting I
+BUAD 281@Accounting II
+BUAD 301@Technical Entrepreneurship
+BUAD 302@Communication Strategy in Business
+BUAD 302t@Business Communication for Accountants
+BUAD 304@Leading Organizations
+BUAD 305@Abridged Core Concepts of Accounting Information
+BUAD 306@Business Finance
+BUAD 307@Marketing Fundamentals
+BUAD 310@Applied Business Statistics
+BUAD 311@Operations Management
+BUAD 350@Macroeconomic Analysis for Business Decisions
+BUAD 351@Economic Analysis for Business Decisions
+BUAD 425@Data Analysis for Decision Making
+BUAD 490x@Directed Research
+BUAD 495@Practicum in Business Issues (Internship)
+BUAD 497@Strategic Management
+BUAD 499@Special Topics
+BUCO 252@The Art of Case Analysis and Presentation
+BUCO 333m@Communication in the Working World -- Managing Diversity and Conflict
+BUCO 425@Ethics and Professional Communication
+BUCO 460@International Business Communication
+CE 106@Design and Planning of Civil Engineering Systems
+CE 110@Introduction to Environmental Engineering
+CE 205@Statics
+CE 210L@Introduction to Environmental Engineering Microbiology
+CE 309@Fluid Mechanics
+CE 334L@Mechanical Behavior of Materials
+CE 358@Theory of Structures I
+CE 404@Business and Intellectual Property Law for Engineers
+CE 408@Risk Analysis in Civil Engineering
+CE 453@Water Quality Control
+CE 456@Design of Steel Structures
+CE 459@Introduction to Structural Dynamics
+CE 460@Construction Engineering
+CE 461@General Construction Estimating
+CE 469@Sustainability
+CE 470@Building Information Modeling and Integrated Practice
+CE 471@Principles of Transportation Engineering
+CE 473@Engineering Law, Finance and Ethics
+CE 478@Timber and Masonry Design
+CE 482@Foundation Design
+CE 484@Water Treatment Design
+CE 490x@Directed Research
+CHE 330@Chemical Engineering Thermodynamics
+CHE 405@Applications of Probability and Statistics for Chemical Engineers
+CHE 410@Introduction to Biomaterials and Tissue Engineering
+CHE 442@Chemical Reactor Analysis
+CHE 444bL@Chemical Engineering Laboratory
+CHE 445@Heat Transfer in Chemical Engineering Processes
+CHE 461@Formation Evaluation
+CHE 463L@Introduction to Transport Processes in Porous Media
+CHE 465L@Drilling Technology and Subsurface Methods
+CHE 472@Polymer Science and Engineering
+CHE 485@Computer-Aided Chemical Process Design
+CHE 487@Nanotechnology and Nanoscale Engineering Through Chemical Processes
+CHE 490x@Directed Research
+CHE 491@Nanotechnology Research for Undergraduates
+CHE 499@Special Topics
+CHEM 050x@General Chemistry Tutorial
+CHEM 102@The Molecular World
+CHEM 103Lx@General Chemistry for the Environment and Life
+CHEM 105aLg@General Chemistry
+CHEM 105bL@General Chemistry
+CHEM 115aLg@Advanced General Chemistry
+CHEM 203Lxg@Chemistry in Life: AIDS Drug Discovery and Development
+CHEM 292@Supervised Research
+CHEM 294@Undergraduate Research Seminar
+CHEM 300L@Analytical Chemistry
+CHEM 322aL@Organic Chemistry
+CHEM 322bL@Organic Chemistry
+CHEM 325aL@Organic Chemistry
+CHEM 426@Advanced Organic Chemistry
+CHEM 430a@Physical Chemistry
+CHEM 432@Physical Chemistry for the Life Sciences
+CHEM 488@Introduction to Theory & Practice of X-Ray Crystallography
+CHEM 490x@Directed Research
+CHEM 499@Special Topics
+CLAS 149g@Ancient Empires
+CLAS 151g@Civilization of Rome
+CLAS 202@Introduction to Archaeology
+CLAS 305@Roman Law
+CLAS 337@Ancient Drama
+CLAS 340@Ethics and Politics in Ancient Rome
+CLAS 360@Classical Arabic Literature in Translation
+CLAS 490x@Directed Research
+CLAS 495x@Honors Research
+CNTV 463@Television: Integrating Creative and Business Objectives
+CNTV 490x@Directed Research
+CNTV 499@Special Topics
+COLT 101g@Masterpieces and Masterminds: Literature and Thought of the West
+COLT 102g@On Location: The Place of Literature in Global Cultures
+COLT 302@Introduction to Literary Theory
+COLT 360@Classical Arabic Literature in Translation
+COLT 373@Literature and Film
+COLT 375@Latin American Cultural and Literary Theory
+COLT 445@Europe and the Writing of Others
+COLT 480@Dada and Surrealism
+COLT 490x@Directed Research
+COLT 495@Senior Honors Thesis
+COMM 200@Communication and Social Science
+COMM 201@Rhetoric and the Public Sphere
+COMM 202@Communication and Technology
+COMM 203@Communication and Mass Media
+COMM 204@Public Speaking
+COMM 205@Communication Practicum
+COMM 206@Communication and Culture
+COMM 207@Economic Thinking for Communication and Journalism
+COMM 300@Foundations for the Study of Entertainment, Communication and Society
+COMM 301L@Empirical Research in Communication
+COMM 302@Persuasion
+COMM 304@Interpersonal Communication
+COMM 306@The Communication Revolution, Entertainment, and the Arts
+COMM 310@Media and Society
+COMM 320@Small Group and Team Communication
+COMM 322@Argumentation and Advocacy
+COMM 323@Public Deliberation
+COMM 324m@Intercultural Communication
+COMM 340@The Cultures of New Media
+COMM 345@Social and Economic Implications of Communication Technologies
+COMM 350@Video Games: Content, Industry, and Policy
+COMM 360@The Rhetoric of Los Angeles
+COMM 363@Media Consumption
+COMM 365@The Rhetoric of London
+COMM 366@Designing Media and Communication Projects for Social Change
+COMM 371@Censorship and the Law: From the Press to Cyberspace
+COMM 375@Business and Professional Communication
+COMM 380@Forensics Laboratory
+COMM 382@Sports, Business and Media in Today's Society
+COMM 383m@Sports, Communication and Culture
+COMM 384@Interpreting Popular Culture
+COMM 385@Survey of Organizational Communication
+COMM 388@Ethics in Human Communication
+COMM 395m@Gender, Media and Communication
+COMM 400@Seminar in Communication
+COMM 421@Legal Communication
+COMM 430@Global Entertainment
+COMM 431@Global Strategy for the Communications Industry
+COMM 443@Communicating Health Messages and Medical Issues
+COMM 450@Visual Culture and Communication
+COMM 451@Visual Communication and Social Change
+COMM 454@Media, Money, and Society
+COMM 458m@Race and Ethnicity in Entertainment and the Arts
+COMM 475@Environmental Communication
+COMM 480@Nonverbal Communication
+COMM 487@Communication and Global Organizations
+COMM 489@Campaign Communication
+COMM 490x@Directed Research
+COMM 494x@Research Practicum
+COMM 495@Honors Seminar
+COMM 497x@Honors Thesis
+COMM 498@Ethical Issues in Entertainment and Communication
+COMM 499@Special Topics
+CORE 101@Symbols and Conceptual Systems: Thematic Option Honors Program
+CORE 102@Culture and Values: Thematic Option Honors Program
+CORE 103@The Process of Change in Science@Thematic Option Honors Program
+CORE 104@Change and the Future@Thematic Option Honors Program
+CORE 111@Writing Seminar I: Thematic Option Honors Program
+CSCI 101L@Fundamentals of Computer Programming
+CSCI 102L@Data Structures
+CSCI 110@Introduction to Digital Logic
+CSCI 180@Survey of Digital Games and Their Technologies
+CSCI 200L@Object-Oriented Programming
+CSCI 201L@Principles of Software Development
+CSCI 271@Discrete Methods in Computer Science
+CSCI 280@Video Game Production
+CSCI 281@Pipelines for Games and Interactives
+CSCI 303@Design and Analysis of Algorithms
+CSCI 357@Basic Organization of Computer Systems
+CSCI 380@Video Game Programming
+CSCI 402@Operating Systems
+CSCI 445@Introduction to Robotics
+CSCI 450@Introduction to Computer Networks
+CSCI 454L@Introduction to System Design Using Microprocessors
+CSCI 455x@Introduction to Programming Systems Design
+CSCI 457@Computer Systems Organization
+CSCI 458@Numerical Methods
+CSCI 460@Introduction to Artificial Intelligence
+CSCI 477a@Design and Construction of Large Software Systems
+CSCI 480@Computer Graphics
+CSCI 487@Programming Game Engines
+CSCI 490x@Directed Research
+CSCI 491aL@Final Game Project
+CSCI 495@Senior Project
+CTAN 101@Introduction to the Art of Animation
+CTAN 201@Introduction to Animation Techniques
+CTAN 301@Introduction to Digital Animation
+CTAN 401a@Senior Project
+CTAN 435@Story Art Development
+CTAN 436@Writing for Animation
+CTAN 443L@3-D Animation and Character Design
+CTAN 448@Introduction to Film Graphics--Animation
+CTAN 450a@Animation Theory and Techniques
+CTAN 450b@Animation Theory and Techniques
+CTAN 451@History of Animation
+CTAN 452@Introduction to 3-D Computer Animation
+CTAN 462@Visual Effects
+CTAN 464L@Digital Lighting and Rendering
+CTAN 495@Visual Music
+CTAN 496@Directed Studies
+CTAN 499@Special Topics
+CTCS 190@Introduction to Cinema
+CTCS 191@Introduction to Television and Video
+CTCS 200@History of the International Cinema I
+CTCS 373@Literature and Film
+CTCS 393@History of the American Film, 1946-1975
+CTCS 400@Non-Fiction Film and Television
+CTCS 402@Practicum in Film/Television Criticism
+CTCS 403@Studies in National and Regional Media
+CTCS 406@History of American Television
+CTCS 409@Censorship in Cinema
+CTCS 411@Film, Television and Cultural Studies
+CTCS 412@Gender, Sexuality and Media
+CTCS 464@Film and/or Television Genres
+CTCS 466@Theatrical Film Symposium
+CTCS 467@Television Symposium
+CTCS 469@Film and/or Television Style Analysis
+CTCS 473@Film Theories
+CTCS 482@Transmedia Entertainment
+CTCS 494@Advanced Critical Studies Seminar
+CTIN 309@Introduction to Interactive Entertainment
+CTIN 400@Fundamentals of Procedural Media
+CTIN 401L@Interface Design for Games
+CTIN 404L@Usability Testing for Games
+CTIN 458@Business and Management of Games
+CTIN 463@Anatomy of a Game
+CTIN 464@Game Studies Seminar
+CTIN 482@Designing Online Multiplayer Game Environments
+CTIN 483@Introduction to Game Development
+CTIN 484L@Intermediate Game Development
+CTIN 488@Game Design Workshop
+CTIN 489@Intermediate Game Design Workshop
+CTIN 490x@Directed Research
+CTIN 491aL@Advanced Game Project
+CTIN 495@Internship in Interactive Media
+CTPR 241@Fundamentals of Cinema Technique
+CTPR 242@Fundamentals of Cinematic Sound
+CTPR 280@Structure of the Moving Image
+CTPR 288@Originating and Developing Ideas for Film
+CTPR 290@Cinematic Communication
+CTPR 310@Intermediate Film Production
+CTPR 327@Motion Picture Camera
+CTPR 335@Motion Picture Editing
+CTPR 371@Directing for Television
+CTPR 376@Intermediate Cinematography
+CTPR 385@Colloquium: Motion Picture Production Techniques
+CTPR 386@Art and Industry of the Theatrical Film
+CTPR 409@Practicum in Television Production
+CTPR 410@The Movie Business: From Story Concept to Exhibition
+CTPR 422@Makeup for Motion Pictures
+CTPR 423@Introduction to Special Effects in Cinema
+CTPR 424@Practicum in Cinematography
+CTPR 425@Production Planning
+CTPR 426@The Production Experience
+CTPR 454@Acting for Film and Television
+CTPR 455@Introduction to Production Design
+CTPR 456@Introduction to Art Direction
+CTPR 457@Creating Poetic Cinema
+CTPR 460@Film Business Procedures and Distribution
+CTPR 461@Managing Television Stations and Internet Media
+CTPR 470@Practicum in On-Screen Direction of Actors
+CTPR 474@Documentary Production
+CTPR 475@Directing: Mise-en-Scene
+CTPR 477@Special Problems in Directing
+CTPR 479@Single Camera Television Dramatic Pilot
+CTPR 480@Production Workshop I
+CTPR 484@Advanced Multi-Camera Television Workshop
+CTPR 487@The Recording Studio in Film and Video Production
+CTPR 495@Internship in Cinematic Arts
+CTPR 496@The Film Industry: Career Challenges and Choices for Women
+CTPR 497@Music Video Production
+CTPR 499@Special Topics
+CTWR 106a@Screenwriting Fundamentals
+CTWR 206a@Writing the Screenplay
+CTWR 305@Advanced Screenwriting: The Relationship Screenplay
+CTWR 314@Writing To Be Performed
+CTWR 321@Introduction to Television Writing
+CTWR 410L@Character Development and Storytelling for Games
+CTWR 412@Introduction to Screenwriting
+CTWR 413@Writing the Short Script I
+CTWR 414@The Screenplay
+CTWR 415a@Advanced Writing
+CTWR 415b@Advanced Writing
+CTWR 416@Motion Picture Script Analysis
+CTWR 418a@Senior Thesis
+CTWR 421@Writing the Hour-Long Dramatic Series
+CTWR 434@Writing the Half-Hour Comedy Series
+CTWR 437@Writing the Situation Comedy Pilot
+CTWR 438@Linked Narrative Storytelling for the Web
+CTWR 439@Writing the Original Dramatic Series Pilot
+CTWR 453@Advanced Feature Rewriting
+CTWR 487@Staff Writing the Multi-Camera Television Series
+CTWR 499@Special Topics
+DBIO 310@Oral Biochemistry
+DHIS 310@Basic Tissues and Histology and Embryology
+DHYG 311a@Fundamentals of Clinical Dental Hygiene Practice
+DHYG 314L@Dental Morphology Laboratory
+DHYG 316@Patient Education in Preventive Dental Care
+DHYG 410b@Clinic: Dental Hygiene
+DHYG 412@Preventive Dental Care Programs
+DHYG 414a@Advanced Dental Hygiene
+DHYG 424b@Research Methods
+DPHR 410@Principles of Pharmacology
+EALC 101x@Conversational Chinese and Intercultural Communication
+EALC 102@Language, Art and Culture: Calligraphy
+EALC 103a@Online Chinese I
+EALC 103b@Online Chinese I
+EALC 104@Chinese I
+EALC 106@Chinese II
+EALC 108@Reading and Writing Chinese
+EALC 110g@East Asian Humanities: The Great Tradition
+EALC 115@Korean I
+EALC 117@Korean II
+EALC 120@Japanese I
+EALC 122@Japanese II
+EALC 125g@Introduction to Contemporary East Asian Film and Culture
+EALC 204@Chinese III
+EALC 206@Chinese IV
+EALC 215@Korean III
+EALC 220@Japanese III
+EALC 222@Japanese IV
+EALC 304@Advanced Modern Chinese I
+EALC 306@Advanced Modern Chinese II
+EALC 315@Advanced Korean I
+EALC 320@Advanced Japanese I
+EALC 322@Advanced Japanese II
+EALC 332@Korean Literature in English Translation
+EALC 334@Chinese Language through Films and Television
+EALC 352g@Chinese Literature and Culture
+EALC 354g@Modern Chinese Literature in Translation
+EALC 374@Language and Society in East Asia
+EALC 387@Early Japanese Art
+EALC 404@Advanced Modern Chinese III
+EALC 412a@Business Chinese
+EALC 412b@Business Chinese
+EALC 415@Advanced Korean III
+EALC 422@Advanced Japanese III
+EALC 428@Nature and the Environment in Japanese Literature and Culture
+EALC 480@Marxism and Culture in East Asia
+EALC 490x@Directed Research
+EALC 499@Special Topics
+EASC 150g@East Asian Societies
+ECON 203@Principles of Microeconomics
+ECON 205@Principles of Macroeconomics
+ECON 251x@Microeconomics for Business
+ECON 252x@Macroeconomics for Business
+ECON 303@Intermediate Microeconomic Theory
+ECON 305@Intermediate Macroeconomic Theory
+ECON 317@Introduction to Statistics for Economists
+ECON 332@Contracts, Organizations, and Institutions
+ECON 342@Economic Development of the Middle East
+ECON 343@Economic Development of East Asia
+ECON 346@Economics of Transition and Development: China
+ECON 357@Money, Credit, and Banking
+ECON 401@Mathematical Methods in Economics
+ECON 404@Games and Economics
+ECON 414@Introduction to Econometrics
+ECON 432@Economics of Happiness
+ECON 450@International Trade
+ECON 457@Financial Markets
+ECON 471@Economics of Labor Markets and Human Capital
+ECON 472@Economics of Medical Care
+ECON 490x@Directed Research
+ECON 495@Honors Thesis
+EDCO 030x@The Process of Paraprofessional Counseling for Young Adults
+EDCO 102xm@Human Diversity: People, Power and Politics
+EDCO 324m@Asian American Psychology
+EDPA 308@Politics and American Education
+EDPT 110@Motivation and Learning Strategies
+EE 101@Introduction to Digital Logic
+EE 105@Introduction to Electrical Engineering
+EE 150L@Engineering Computational Methods
+EE 200L@Foundations of Electrical Engineering Systems
+EE 201L@Introduction to Digital Circuits
+EE 202L@Linear Circuits
+EE 241@Applied Linear Algebra for Engineering
+EE 301@Introduction to Linear Systems
+EE 328Lx@Circuits and Electronics for Computer Engineers
+EE 330@Electromagnetics I
+EE 337L@Engineering Nano-Systems
+EE 338@Physical Electronics
+EE 348L@Electronic Circuits
+EE 357@Basic Organization of Computer Systems
+EE 364@Introduction to Probability and Statistics for Electrical Engineering
+EE 401@Transform Theory for Engineers
+EE 441@Applied Linear Algebra for Engineering
+EE 443@Introduction to Power Systems
+EE 444@Power Systems Technology
+EE 445@Introduction to Robotics
+EE 448L@Communication Electronics
+EE 450@Introduction to Computer Networks
+EE 454L@Introduction to System Design Using Microprocessors
+EE 455xx@Introduction to Programming Systems Design
+EE 457@Computer Systems Organization
+EE 460@Introduction to Artificial Intelligence
+EE 464@Probability Theory for Engineers
+EE 465@Probabilistic Methods in Computer Systems Modeling
+EE 470@Electromagnetics II
+EE 471@Applied Quantum Mechanics for Engineers
+EE 475@Wireless Communication Technology
+EE 477L@MOS VLSI Circuit Design
+EE 479@Analog and Non-Linear Integrated Circuit Design
+EE 480@Introduction to Nanoscience and Nanotechnology
+EE 482@Linear Control Systems
+EE 483@Introduction to Digital Signal Processing
+EE 485@Telecommunications Technology
+EE 490x@Directed Research
+ENE 428@Air Pollution Fundamentals
+ENE 453@Water Quality Control
+ENE 486@Design of Solid and Hazardous Waste Engineering Systems
+ENGL 105x@Creative Writing for Non-Majors
+ENGL 261@English Literature to 1800
+ENGL 262@English Literature since 1800
+ENGL 263@American Literature
+ENGL 285m@African American Popular Culture
+ENGL 290@Cultural Studies: Theories and Methods
+ENGL 303@Introduction to Fiction Writing
+ENGL 304@Introduction to Poetry Writing
+ENGL 305@Introduction to Nonfiction Writing
+ENGL 350@Literature of California
+ENGL 375@Science Fiction
+ENGL 392@Visual and Popular Culture
+ENGL 404@The Writer in the Community
+ENGL 405@Fiction Writing
+ENGL 406@Poetry Writing
+ENGL 407@Advanced Fiction Writing
+ENGL 408@Advanced Poetry Writing
+ENGL 421@English Literature of the 16th Century
+ENGL 423@English Literature of the 18th Century
+ENGL 425@English Literature of the Victorian Age
+ENGL 426@Modern English Literature
+ENGL 430@Shakespeare
+ENGL 440@American Literature to 1865
+ENGL 444m@Native American Literature
+ENGL 451@Periods and Genres in American Literature
+ENGL 455@Contemporary Prose
+ENGL 456@Contemporary Poetry
+ENGL 467@The Modern Novel
+ENGL 470@Women in English and American Literature after 1800
+ENGL 471@Literary Genres and Film
+ENGL 472@Literature and Related Arts
+ENGL 480@Modern Literary Criticism: Theory and Practice
+ENGL 490x@Directed Research
+ENGL 491@Senior Seminar in Literary Studies
+ENGR 100a@Engineering Honors Colloquium
+ENGR 100b@Engineering Honors Colloquium
+ENGR 100c@Engineering Honors Colloquium
+ENGR 100d@Engineering Honors Colloquium
+ENGR 101@Introduction to Engineering
+ENGR 102@Engineering Freshman Academy
+ENGR 301@Technical Entrepreneurship
+ENGR 305@Engineering Biology Matters
+ENGR 395ax@Cooperative Education Work Experience
+ENGR 395bx@Cooperative Education Work Experience
+ENGR 395cx@Cooperative Education Work Experience
+ENGR 395dx@Cooperative Education Work Experience
+ENGR 400@Engineering Honors Projects
+ENGR 490x@Directed Research
+ENGR 499@Special Topics
+ENST 100@Introduction to Environmental Studies
+ENST 150xg@Environmental Issues in Society
+ENST 255@American Environmentalism
+ENST 260lLg@Natural Hazards
+ENST 320a@Water and Soil Sustainability: Energy and Air Sustainability
+ENST 320b@Water and Soil Sustainability: Energy and Air Sustainability
+ENST 323@Politics of Global Environment
+ENST 345@Conservation of Natural Resources
+ENST 387x@Economics for Natural Resources and the Environment
+ENST 396@Directed Governmental and Political Leadership Internship
+ENST 436@Environmental Politics
+ENST 445@Earth Climate: Past, Present, and Future
+ENST 490x@Directed Research
+EXSC 200L@Nutrition: Macronutrients and Energy Metabolism
+EXSC 202L@Principles of Nutrition and Exercise
+EXSC 203L@Individualized Exercise Prescription
+EXSC 205Lxg@The Science of Human Performance
+EXSC 301L@Human Anatomy
+EXSC 310@Sociopsychological Aspects of Sport and Physical Activity
+EXSC 400L@Principles of Perceptual-Motor Learning
+EXSC 405L@Applied Systems Physiology
+EXSC 408L@Biomechanics
+EXSC 409@Metabolic Diseases
+EXSC 441L@Prevention of Athletic Injuries
+EXSC 490x@Directed Research
+EXSC 491L@Laboratory Experience in Kinesiology
+FA 140x@A Cultural Guide to Los Angeles
+FA 208ax@Three-Dimensional Art Workshop
+FA 208bx@Three-Dimensional Art Workshop
+FA 418@Independent Studies in Studio Arts
+FA 419@Professional Internship in the Arts
+FA 499@Special Topics
+FACE 112@Ceramics
+FACE 212@Wheel Throwing
+FACE 312@Advanced Ceramics
+FACE 412@Topics in Advanced Ceramics
+FACS 150@Visual Culture and Literacy I
+FACS 250@Visual Culture and Literacy II
+FACS 350@Art Theory and Criticism
+FACS 450@Senior Seminar
+FADN 102@Design Fundamentals
+FADN 202@Design II
+FADN 203@Digital Tools for Design
+FADN 302@Design III
+FADN 332a@Typography
+FADN 332b@Typography
+FADN 402@Advanced Design Projects
+FADN 432@Special Projects in Design
+FADW 101@Introduction to Drawing: Studio Projects, Methods, Materials
+FADW 201@Intermediate Drawing
+FADW 301@Advanced Drawing
+FADW 331@Studies in Drawing and Painting
+FADW 401@Topics in Advanced Drawing
+FAPH 209@Introduction to Photography
+FAPH 309a@Intermediate Photography
+FAPH 309b@Intermediate Photography
+FAPH 409@Topics in Advanced Photography
+FAPT 105@Painting I
+FAPT 205@Painting II
+FAPT 305@Advanced Painting
+FAPT 331@Studies in Drawing and Painting
+FAPT 405@Topics in Advanced Painting
+FAPR 311@Printmaking
+FAPR 411@Topics in Advanced Printmaking
+FASC 106@Sculpture I
+FASC 136@Modeling and Mold Making
+FASC 206@Sculpture II
+FASC 236@Metal
+FASC 306@Advanced Sculpture
+FASC 406@Topics in Advanced Sculpture
+FASC 436@Art and Technology
+FBE 391@Real Estate Finance and Investment
+FBE 400x@Introduction to Real Estate Finance and Development
+FBE 403@Introduction to the Legal Environment of Business
+FBE 421@Financial Analysis and Valuation
+FBE 427@Real Estate Law
+FBE 428@Principles of Employment Law
+FBE 429@International Business Law
+FBE 431@Financial Policies and Corporate Control
+FBE 432@Corporate Financial Strategy
+FBE 436@Financial Management of Multinational Corporations
+FBE 437@Entrepreneurial Finance: Financial Management for Developing Firms
+FBE 441@Investments
+FBE 453a@Advanced Practicum in Investment Management
+FBE 458@Law and Finance
+FBE 459@Financial Derivatives
+FBE 462@International Trade and Commercial Policy
+FBE 470@Advanced Real Estate Analysis
+FBE 489@Real Estate Capital Markets
+FREN 020x@Course in Reading French I
+FREN 120@French I
+FREN 150@French II
+FREN 220@French III
+FREN 235x@Intermediate Conversational French: Culture, Society, and Communication
+FREN 250@French IV
+FREN 300@French Grammar and Composition
+FREN 310@French Pronunciation and Conversation
+FREN 330@Writing About Literature
+FREN 347@Race, Gender and Power in Francophone Literature
+FREN 351@Early Modern French Cultures
+FREN 375m@Global Narratives of Illness and Disability
+FREN 385@Colloquium: French Literature
+FREN 446@Contemporary French Thought
+FREN 464@Colloquium: French Civilization
+FREN 474@Readings in 20th Century French Literature
+FREN 490x@Directed Research
+FREN 499@Special Topics
+FSEM 100@Freshman Seminar
+FSEM 180@First Year College Seminar
+GEOG 255@American Environmentalism
+GEOG 257g@Environment and Ethics
+GEOG 260Lg@Natural Hazards
+GEOG 265Lg@The Water Planet
+GEOG 345@Conservation of Natural Resources
+GEOG 482L@Principles of Geographic Information Science
+GEOG 490x@Directed Research
+GEOG 495a@Senior Honors Thesis
+GEOG 495b@Senior Honors Thesis
+GEOL 105Lg@Planet Earth
+GEOL 107Lg@Oceanography
+GEOL 108Lg@Crises of a Planet
+GEOL 125Lg@Earth History: A Planet and Its Evolution
+GEOL 130Lg@The Nature of Scientific Inquiry
+GEOL 150Lg@Climate Change
+GEOL 160L@Introduction to Geosystems
+GEOL 240Lg@Earthquakes
+GEOL 290L@Special Laboratory
+GEOL 315L@Minerals and Earth Systems
+GEOL 320L@Surficial Processes and Stratigraphic Systems
+GEOL 385@Research Methods in the Earth Sciences
+GEOL 425L@Data Analysis in the Earth and Environmental Sciences
+GEOL 445@Earth Climate: Past, Present, and Future
+GEOL 460L@Geochemistry and Hydrogeology
+GEOL 490x@Directed Research
+GEOL 494x@Senior Thesis
+GERM 101@German I
+GERM 102@German II
+GERM 201@German III, Conversation and Composition
+GERM 221@Conversational German IV
+GERM 320@Composition and Conversation on Contemporary Affairs
+GERM 346@German Folklore and Popular Culture
+GERM 445@Europe and the Writing of Others
+GERO 200@Gerontology: The Science of Adult Development
+GERO 310@Physiology of Aging
+GERO 320@Psychology of Adult Development
+GERO 330@Society and Adult Development
+GERO 350@Administrative Problems in Aging
+GERO 380m@Diversity in Aging
+GERO 411L@Physiology, Nutrition, and Aging
+GERO 423@Psychological Development Through Autobiography
+GERO 470@Aging and Business
+GERO 483@Global Health and Aging
+GERO 490x@Directed Research
+GERO 491@Practicum
+GERO 495@Practicum in Geriatric Care
+GERO 496@Introduction to Clinical Geriatrics
+GERO 497a@Honors Seminar
+GERO 497b@Honors Seminar
+GERO 497c@Honors Seminar
+GR 120@Greek I
+GR 150@Greek II
+GR 220@Greek III
+GR 353@Plato
+GR 354@Greek Historians
+GR 450@Readings in Greek Literature
+HEBR 120@Hebrew I
+HEBR 220@Hebrew III
+HIST 101g@The Ancient World
+HIST 102gm@Medieval People: Early Europe and its Neighbors, 400-1500
+HIST 103g@The Emergence of Modern Europe
+HIST 106g@Chinese Lives: An Introduction to Chinese History
+HIST 180@Introduction to Islamic Civilization
+HIST 200gm@The American Experience
+HIST 225g@Film, Power, and American History
+HIST 265g@Understanding Race and Sex Historically
+HIST 273g@Colonial Latin America
+HIST 300@Approaches to History
+HIST 308@Britain and Ireland to 1200 C.E.
+HIST 312@The Age of the French Revolution and Napoleon
+HIST 317gm@North American Indians in American Public Life
+HIST 324g@Islam in Russia and the Soviet Union
+HIST 331@The British Empire: 1588-1834
+HIST 335@History of Japan to 1550
+HIST 342@Love and Politics in America, 1750s to 2050s
+HIST 349@Colonial North America 1600-1760
+HIST 353m@Race and Racism in the Americas
+HIST 355@The African-American Experience
+HIST 361@20th Century U.S. History
+HIST 373m@History of the Mexican American
+HIST 374@History of Mexico
+HIST 378m@Introduction to Asian American History
+HIST 380@American Popular Culture
+HIST 416@History of Imperial Russia: 1689-1917
+HIST 429@Street Life: Urban Culture in Modern Europe
+HIST 452@Beauty and the Body in Historical Perspective
+HIST 455@Advanced Topics in African-American History
+HIST 458@History of California
+HIST 461@19th Century American Thought
+HIST 470@The Spanish Inquisition in the Early Modern Hispanic World
+HIST 480@Seminar in Middle East History
+HIST 490x@Directed Research
+HIST 492@Honors Thesis
+HIST 494@Seminar in New Historical Writing
+HIST 498@Seminar on Selected Historical Topics
+HP 200@Introduction to Health Promotion and Disease Prevention
+HP 230@Nutrition and Health
+HP 270@Introduction to Global Health
+HP 290@Introduction to Research Apprenticeship
+HP 300@Theoretical Principles of Health Behavior
+HP 320@Biological and Behavioral Basis of Disease
+HP 340L@Health Behavior Statistical Methods
+HP 350L@Health Behavior Research Methods
+HP 370@Introduction to Epidemiology@Methods and Applications
+HP 400m@Culture, Lifestyle, and Health
+HP 420m@Gender and Minority Health Issues
+HP 421@Violence as a Public Health Issue
+HP 430@Obesity and Health
+HP 432@Clinical Nutrition
+HP 442@Chronic Disease Epidemiology
+HP 443@Communicating Health Messages and Medical Issues
+HP 450@Traditional Eastern Medicine and Modern Health
+HP 460@Adolescent Health
+HP 483@Global Health and Aging
+HP 490x@Directed Research
+IOM 401@Business Information Systems -- Spreadsheet Applications
+IOM 402@Business Information Systems -- Database Applications
+IOM 427@Designing Spreadsheet-Based Business Models
+IOM 431@Managing the Digital Revolution for Your Business
+IOM 433@Business Information Systems Analysis and Design
+IOM 482@Supply Chain Management
+IOM 483@Operations Consulting
+IOM 499@Special Topics
+IML 104@Introduction to Digital Studies
+IML 140@Workshop in Multimedia Authoring
+IML 201@The Languages of Digital Media
+IML 295Lm@Race, Class and Gender in Digital Culture
+IML 340@The Praxis of New Media: Digital Argument
+IML 346@Methods in Digital Research and Execution
+IML 400@Dynamic Multimedia for Web Infrastructures
+IML 440@Honors in Multimedia Scholarship: Thesis Project I
+IML 466@Digital Studies Symposium
+IML 490@Directed Research
+INDS 100@Topical and Multidisciplinary Seminars
+INDS 101@Directed Research and Tutorials
+INDS 102@Field Study
+INDS 300@Topical and Multidisciplinary Seminars
+INDS 301@Directed Research and Tutorials
+INDS 302@Field Study
+INDS 400@Topical and Multidisciplinary Seminars
+INDS 401@Directed Research and Tutorials
+INDS 402@Field Study
+INDS 494@Senior Thesis
+IR 101xg@International Relations
+IR 210@International Relations: Introductory Analysis
+IR 211@International Relations: Approaches to Research
+IR 212@Historical Approaches to International Relations
+IR 213@The Global Economy
+IR 305@Managing New Global Challenges
+IR 306@International Organizations
+IR 307@Contemporary International Politics
+IR 308@Globalization: Issues and Controversies
+IR 309@Global Governance
+IR 310@Introduction to Peace and Conflict Studies
+IR 315@Ethnicity and Nationalism in World Politics
+IR 316@Gender and Global Issues
+IR 323@Politics of Global Environment
+IR 324@Multinational Enterprises and World Politics
+IR 325@Rich and Poor States in the World Political Economy
+IR 330@Politics of the World Economy
+IR 333@China in International Affairs
+IR 343@U.S. Foreign Policy Since World War II
+IR 344@Developing Countries in World Politics
+IR 358@The Asia Pacific in World Affairs
+IR 361@South and Southeast Asia in International Affairs
+IR 363@Middle East Political Economy
+IR 366@Mexico and its Relations with the United States
+IR 367@Africa in International Affairs
+IR 368@French Foreign Policy: 1945 to the Present
+IR 369@Contemporary European International Relations
+IR 381@Introduction to International Security
+IR 386@International Terrorism and Liberal Democracy
+IR 408@Global Democratization
+IR 424@Citizenship and Migration in International Politics
+IR 439@Political Economy of Russia and Eurasia
+IR 442@Japanese Foreign Policy
+IR 444@Issues and Theories in Global Society
+IR 468@European Integration
+IR 490x@Directed Research
+IR 491x@Field Study
+IR 494@Honors Thesis Seminar
+IR 499@Special Topics
+ISE 105@Introduction to Industrial and Systems Engineering
+ISE 220@Probability Concepts in Engineering
+ISE 225@Engineering Statistics I
+ISE 232L@Manufacturing Processes
+ISE 310L@Production I: Facilities and Logistics
+ISE 330@Introduction to Operations Research: Deterministic Models
+ISE 331@Introduction to Operations Research: Stochastic Models
+ISE 370L@Human Factors in Work Design
+ISE 404@Business and Intellectual Property Law for Engineers
+ISE 410@Production II: Planning and Scheduling
+ISE 426@Statistical Quality Control
+ISE 435@Discrete Systems Simulation
+ISE 440@Work, Technology, and Organization
+ISE 460@Engineering Economy
+ISE 482L@Engineering Database Applications
+ISE 487x@Data Warehouses and Business Intelligence
+ISE 488x@Managing Supply Chains with Advanced Planning & Optimization
+ISE 495ax@Senior Design Project
+ISE 495bx@Senior Design Project
+ITAL 120@Italian I
+ITAL 150@Italian II
+ITAL 220@Italian III
+ITAL 224@Italian Composition and Conversation
+ITAL 320@Writing About Italian Literature
+ITAL 446@Italian Cinema and Society
+ITAL 461@Theatre, Spectacle, Drama and Performance in Italy
+ITAL 490x@Directed Research
+ITAL 499@Special Topics
+ITP 090x@Introduction to Adobe Photoshop
+ITP 101x@Introduction to Information Technology
+ITP 104x@Internet Publishing Technologies
+ITP 109x@Introduction to Java Programming
+ITP 125Lx@From Hackers to CEOs: Introduction to Information Security
+ITP 215Lx@3D Modeling, Animation, and Special Effects
+ITP 216@Web Animation and Interactivity
+ITP 230x@Video Game Quality Assurance
+ITP 280@Video Game Production
+ITP 300x@Database Web Development
+ITP 304x@Technologies for Building Online Political Campaigns
+ITP 310Lx@Design for User Experience
+ITP 315x@3D Character Animation
+ITP 320x@Enterprise Wide Information Systems
+ITP 357x@Enterprise Network Design
+ITP 375x@Digital Forensics
+ITP 380@Video Game Programming
+ITP 404x@Developing Web Services & Application Programming Interfaces
+ITP 411x@Interactive Multimedia Production
+ITP 425x@Web Application Security
+ITP 470x@Information Technology Practicum
+ITP 482L@Engineering Database Applications
+ITP 485@Programming Game Engines
+ITP 487x@Data Warehouses and Business Intelligence
+ITP 488x@Managing Supply Chains with Advanced Planning & Optimization
+ITP 499x@Special Topics
+JOUR 090x@Internships in the Media
+JOUR 190@Introduction to Journalism
+JOUR 201@History of News in Modern America
+JOUR 202@Newswriting: Print
+JOUR 203@Newswriting: Broadcast
+JOUR 210x@Basics of Broadcast Newsroom Production for Non-Majors Only
+JOUR 306@Production: Broadcast
+JOUR 308@Newspaper Editing and Design
+JOUR 309@Introduction to Online Media
+JOUR 310@Investigative Reporting
+JOUR 330@Photojournalism
+JOUR 340@Introduction to Advertising
+JOUR 341@Advertising Copywriting
+JOUR 342@Advertising Media and Analysis
+JOUR 350@Principles of Public Relations
+JOUR 351a@Public Relations Media
+JOUR 351b@Public Relations Media
+JOUR 371@Censorship and the Law: From the Press to Cyberspace
+JOUR 380@Sports, Business and Media in Today's Society
+JOUR 381@Entertainment, Business and Media in Today's Society
+JOUR 402@Advanced Television Reporting
+JOUR 403@Television News Production
+JOUR 405@Non-Fiction Television
+JOUR 420@Advanced Photojournalism
+JOUR 422@Visual Journalism
+JOUR 431@Feature Writing
+JOUR 432@Sports Commentary
+JOUR 435@Writing Magazine Non-Fiction
+JOUR 450@Advanced Public Relations
+JOUR 454@Sports Public Relations
+JOUR 455@Public Relations for Non-Profit Organizations
+JOUR 458@Public Relations in Politics and Political Campaigns
+JOUR 462@Law of Mass Communication
+JOUR 463@Research and Analysis
+JOUR 468m@The American Press and Issues of Sexual Diversity
+JOUR 470@Community Journalism
+JOUR 475@Publications Design and Technology
+JOUR 490x@Directed Research
+JOUR 499@Special Topics
+JS 100g@Jewish History
+JS 211g@The Holocaust
+JS 300@American Jewish History
+JS 330@Jewish Power, Powerlessness, and Politics in the Modern Era
+JS 382@Judaism as an American Religion
+JS 490x@Directed Research
+JS 499@Special Topics
+LAT 120@Latin I
+LAT 150@Latin II
+LAT 222@Latin III
+LAT 325@Roman Historians
+LAT 365@Latin Literature of the Silver Age
+LAT 450@Readings in Latin Literature
+LAW 200x@Law and Society
+LAW 201x@Law and Politics: Electing a President
+LAW 402@Psychology and Law
+LAW 404@Law and Psychology: Examining the Criminal Justice Process
+LING 110Lg@In a Word
+LING 115g@Language, Society, and Culture
+LING 122@Arabic I
+LING 125@Hindi I
+LING 152@Arabic II
+LING 210@Introduction to Linguistics
+LING 222@Arabic III
+LING 255@Hindi III
+LING 275Lg@Language and Mind
+LING 302@Introduction to Syntax and Semantics
+LING 374@Language and Society in East Asia
+LING 406@Psycholinguistics
+LING 412@Linguistic Interpretation of the Law
+LING 465@Philosophy of Language
+LING 490x@Directed Research
+LING 497@Honors Thesis
+MASC 110L@Materials Science
+MASC 310@Materials Behavior and Processing
+MASC 334lL@Mechanical Behavior of Materials
+MASC 471@Applied Quantum Mechanics for Engineers
+MASC 472@Polymer Science and Engineering
+MATH 040x@Basic Mathematical Skills
+MATH 108@Precalculus
+MATH 116@Mathematics for the Social Sciences
+MATH 117@Introduction to Mathematics for Business and Economics
+MATH 118x@Fundamental Principles of the Calculus
+MATH 125@Calculus I
+MATH 126@Calculus II
+MATH 208x@Elementary Probability and Statistics
+MATH 218@Probability for Business
+MATH 225@Linear Algebra and Linear Differential Equations
+MATH 226@Calculus III
+MATH 245@Mathematics of Physics and Engineering I
+MATH 265@Mathematical and Computational Methods for Neuroscience
+MATH 307@Statistical Inference and Data Analysis I
+MATH 308@Statistical Inference and Data Analysis II
+MATH 395@Seminar in Problem Solving
+MATH 400@Foundations of Discrete Mathematics
+MATH 407@Probability Theory
+MATH 410@Fundamental Concepts of Modern Algebra
+MATH 425a@Fundamental Concepts of Analysis
+MATH 430@Theory of Numbers
+MATH 434@Geometry and Transformations
+MATH 440@Topology
+MATH 445@Mathematics of Physics and Engineering II
+MATH 458@Numerical Methods
+MATH 466@Dynamic Modeling
+MATH 467@Theory and Computational Methods for Optimization
+MATH 490x@Directed Research
+MDA 100a@Introduction to the Health Professions
+MDA 100b@Introduction to the Health Professions
+MDA 100c@Introduction to the Health Professions
+MDA 100d@Introduction to the Health Professions
+MDA 250@Internship for Liberal Arts: Work and Career -- Theory and Practice
+MDA 333@Colloquium in Armenian Studies: Social and Cultural Issues
+MDA 365@The Art and Adventure of Leadership
+MDA 450@Individual Program of Study
+MDES 120@Persian I
+MDES 220@Persian III
+MED 100@First Year Medicine
+MED 200@Second Year Medicine
+MED 300@Third Year Medicine
+MED 400@Fourth Year Medicine
+MKT 405@Advertising and Promotion Management
+MKT 410@Professional Selling
+MKT 425@Direct Response and Internet Marketing
+MKT 440@Marketing Analysis and Strategy
+MKT 445@New Product Development and Branding
+MKT 450@Consumer Behavior and Marketing
+MKT 465@Global Marketing Management
+MKT 470@Marketing Research
+MOR 252@The Art of Case Analysis and Presentation
+MOR 461@Design of Effective Organizations
+MOR 462@Management Consulting
+MOR 469@Negotiation and Persuasion
+MOR 470@Global Leadership
+MOR 471@Managing and Developing People
+MOR 472@Power, Politics and Influence
+MOR 492@Global Strategy
+MPEM 450@Collegium Workshop
+MPGU 120a@Beginning Pop/Rock Guitar
+MPGU 120b@Beginning Pop/Rock Guitar
+MPGU 120c@Beginning Pop/Rock Guitar
+MPGU 120d@Beginning Pop/Rock Guitar
+MPGU 121@Intensive Beginning Pop/Rock Guitar
+MPGU 125@Beginning Fingerstyle/Chord Guitar
+MPGU 126@Easy Fingerstyle Beatles
+MPGU 153@Individual Instruction
+MPGU 158@Guitarists in the United States
+MPGU 253@Individual Instruction
+MPGU 257@Classical Guitar Performance Class
+MPGU 258@Functional Skills for Studio Guitarists II
+MPGU 300x@Non-Major Individual Instruction
+MPGU 301@Individual Instruction
+MPGU 353@Individual Instruction
+MPGU 358@Performance Practices for Studio Guitarists
+MPGU 415@Studio Guitar Pedagogy
+MPGU 417@Classical Guitar Pedagogy
+MPGU 428a@Improvisation and Arranging for Guitar
+MPGU 453@Individual Instruction
+MPGU 457@Classical Guitar Performance Class
+MPGU 490x@Directed Research
+MPKS 150a@Beginning Piano
+MPKS 150b@Beginning Piano
+MPKS 153@Individual Instruction
+MPKS 160a@Functional Skills for Keyboard Majors I
+MPKS 170a@Introduction to Piano Repertoire and Performance
+MPKS 228@Four-Hand Keyboard Repertoire
+MPKS 250a@Keyboard Instruction I
+MPKS 253@Individual Instruction
+MPKS 260a@Functional Skills for Keyboard Majors II
+MPKS 300x@Non-Major Individual Instruction
+MPKS 301@Individual Instruction
+MPKS 350a@Keyboard Instruction II
+MPKS 353@Individual Instruction
+MPKS 360a@Accompanying
+MPKS 431a@Piano Pedagogy: Introduction and Practicum
+MPKS 450a@Piano Pedagogy: Intermediate Literature and Functional Skills
+MPKS 453@Individual Instruction
+MPKS 472a@Piano History and Literature
+MPKS 481@Interpretation of Baroque Music
+MPKS 490x@Directed Research
+MPPM 100@Popular Music Forum
+MPPM 120@Popular Music Performance I
+MPPM 153@Individual Instruction
+MPPM 240@Drumming Proficiency for the Popular Musician
+MPPM 250@Keyboard Proficiency for the Popular Musician
+MPPM 253@Individual Instruction
+MPPM 301@Individual Instruction
+MPPM 320@Popular Music Performance II
+MPPM 325a@Arranging in Popular Music
+MPPM 450a@Final Project
+MPST 153@Individual Instruction
+MPST 163@Beginning Harp
+MPST 253@Individual Instruction
+MPST 262@Double Bass Performance Class
+MPST 263@Harp Performance Class
+MPST 300x@Non-Major Individual Instruction
+MPST 301@Individual Instruction
+MPST 353@Individual Instruction
+MPST 453@Individual Instruction
+MPST 462@Double Bass Performance Class
+MPST 463@Harp Performance Class
+MPST 490x@Directed Research
+MPVA 141@Class Voice
+MPVA 153@Individual Instruction
+MPVA 203a@Acting for Singers
+MPVA 241@Intermediate Class Voice
+MPVA 253@Individual Instruction
+MPVA 300x@Non-Major Individual Instruction
+MPVA 301@Individual Instruction
+MPVA 353@Individual Instruction
+MPVA 402@Musical Theatre Workshop
+MPVA 403@Acting for Singers II
+MPVA 404@Word and Music in Opera
+MPVA 405@USC Opera
+MPVA 438@Vocal Pedagogy
+MPVA 440@Italian and French Diction
+MPVA 443@Cantata and Oratorio
+MPVA 453@Individual Instruction
+MPVA 479@Song Literature
+MPVA 490x@Directed Research
+MPWP 153@Individual Instruction
+MPWP 252@Individual Instrument Performance Class I
+MPWP 253@Individual Instruction
+MPWP 300x@Non-Major Individual Instruction
+MPWP 301@Individual Instruction
+MPWP 353@Individual Instruction
+MPWP 452@Individual Instrument Performance Class II
+MPWP 453@Individual Instruction
+MPWP 482@Interpretation of Classic, Romantic, and 20th Century Wind and Percussion Music
+MPWP 490x@Directed Research
+MS 101@Foundations of Officership
+MS 102@Basic Leadership
+MS 201@Individual Leadership Studies
+MS 202@Leadership and Teamwork
+MS 301@Leadership and Problem Solving
+MS 401@Leadership and Management
+MUCD 340@Choral Conducting I
+MUCD 343@Instrumental Conducting I
+MUCD 441@Choral Conducting II
+MUCD 443@Instrumental Conducting II
+MUCD 490x@Directed Research
+MUCM 440@Choral Development
+MUCM 490x@Directed Research
+MUCO 101x@Fundamentals of Music Theory
+MUCO 130ax@Basics of Music Theory
+MUCO 131a@Harmony in Popular Music
+MUCO 132a@Aural Skills I
+MUCO 133a@Theory I
+MUCO 135@Counterpoint I
+MUCO 137a@Introduction to Composition
+MUCO 221ax@Composition for Non-Majors
+MUCO 232a@Aural Skills II
+MUCO 233a@Theory II
+MUCO 237a@Composition I
+MUCO 300@Theory Review
+MUCO 321@Composition for Non-Majors II
+MUCO 333@Aural Skills Review
+MUCO 337a@Composition II
+MUCO 338x@Elementary Orchestration
+MUCO 339@Orchestration Review
+MUCO 434@Analytical Techniques
+MUCO 437a@Composition III
+MUCO 437b@Composition III
+MUCO 438@Arranging for Marching Band
+MUCO 440a@Composition for Films and Television
+MUCO 442a@History of Film Music Scoring
+MUCO 443a@Film Score Analysis and Preparation
+MUCO 490x@Directed Research
+MUEA 474ax@Electronic Synthesizer Techniques
+MUEA 474bx@Electronic Synthesizer Techniques
+MUEA 490x@Directed Research
+MUED 490x@Directed Research
+MUEN 222@Trojan Marching Band
+MUEN 305@Vocal Jazz Ensemble
+MUEN 307@University Chorus
+MUEN 308@USC Men's Chorus
+MUEN 310@University Concert Choir
+MUEN 311@USC Oriana Choir
+MUEN 312@USC Chamber Choir
+MUEN 314@Opera Chorus
+MUEN 320@USC Symphony
+MUEN 321@USC Concert Orchestra
+MUEN 322@Trojan Marching Band
+MUEN 323@University Wind Ensemble
+MUEN 325@Wind and Percussion Chamber Music
+MUEN 326@Guitar Ensemble
+MUEN 327@String Chamber Music
+MUEN 328@Keyboard Collaboration
+MUEN 329@Jazz Ensemble
+MUEN 330@Contemporary Music Ensemble
+MUEN 331@Guitar Big Band
+MUEN 332@Jazz Chamber Music
+MUEN 344@Vocal Chamber Music
+MUEN 350@Early Music Ensemble
+MUHL 231@Music History I
+MUHL 315x@Music and Culture
+MUHL 331@Music History III
+MUHL 490x@Directed Research
+MUIN 270@Introduction to the Music Industry
+MUIN 275a@Recording Arts Workshop
+MUIN 275b@Recording Arts Workshop
+MUIN 277x@Introduction to Music Technology
+MUIN 280@Communications in the Music Industry
+MUIN 286@Record Production Management
+MUIN 305@MIDI and Computer Music Production
+MUIN 360@Introduction to Music Law
+MUIN 372ax@The Business and Legal Aspects of the Music Industry
+MUIN 372bx@The Business and Legal Aspects of the Music Industry
+MUIN 425@Live Music Production and Promotion
+MUIN 435@Manufacture and Distribution of Musical Products
+MUIN 440@Arts Management
+MUIN 442@Operation of the Radio Studio
+MUIN 445@International Music Industry
+MUIN 446a@Computer Assisted Recording and Editing
+MUIN 446b@Computer Assisted Recording and Editing
+MUIN 448@Computer Music Notation and Preparation
+MUIN 450@Practicum in Music Industry Issues (Internship)
+MUIN 477@Remote Recording Techniques
+MUIN 478@Advanced Multichannel Remix
+MUIN 486@Computer-Assisted Music Editing for Picture
+MUIN 490x@Directed Research
+MUIN 493@Audio Signal Processing Equipment
+MUIN 495@Music Industry, Broadcast and the Internet
+MUJZ 100xm@Jazz: A History of America's Music
+MUJZ 141a@Basic Keyboard Skills for the Improviser
+MUJZ 150x@Beginning Jazz Improvisation
+MUJZ 153@Individual Instruction
+MUJZ 195@Jazz Elements I
+MUJZ 218a@Afro-Latin Percussion Instruments
+MUJZ 253@Individual Instruction
+MUJZ 286a@The History of Jazz
+MUJZ 300x@Non-Major Individual Instruction
+MUJZ 301@Individual Instruction
+MUJZ 305a@Advanced Jazz Theory
+MUJZ 353@Individual Instruction
+MUJZ 395@Jazz Elements II
+MUJZ 400@Arranging for Jazz Ensemble
+MUJZ 419m@The Jazz Experience: Myths and Culture
+MUJZ 443@Jazz Pedagogy
+MUJZ 450@Intermediate Jazz Improvisation
+MUJZ 453@Individual Instruction
+MUJZ 490x@Directed Research
+MUSC 255@Songwriting I
+MUSC 310@Computer Recording for the Performing Musician
+MUSC 355@Songwriting II
+MUSC 400m@The Broadway Musical: Reflection of American Diversity, Issues, and Experiences
+MUSC 420m@Hip-hop Music and Culture
+MUSC 422@The Beatles: Their Music and Their Times
+MUSC 423@Classic Rock: Popular Music of the Sixties and Seventies
+MUSC 444@American Roots Music@History and Culture
+MUSC 450m@The Music of Black Americans
+MUSC 455@Songwriting III: The Performing Songwriter
+MUSC 460@Film Music: History and Function From 1930 to the Present
+MUSC 498x@Internship in Music
+MUSC 499@Special Topics
+NAUT 001ax@Deepwater Cruising
+NAUT 001bx@Deepwater Cruising
+NAUT 002ax@Advanced Deepwater Cruising
+NEUR 490x@Directed Research
+NSC 135@Introduction to Naval Science
+NSC 251@Seamanship and Ship Operations
+NSC 283@Naval Ships Systems I (Engineering)
+NSC 343@Evolution of Warfare
+NSC 392@Amphibious Warfare
+NSC 453@Leadership and Management I
+NSC 454@Leadership and Management II
+OCCL 310@Fundamentals of Dental Morphology
+OT 220@Lifestyle Design: Introduction to Occupational Therapy
+OT 250@Introduction to Occupational Science and Occupational Therapy
+OT 260@Human Functional Anatomy for Occupational Therapists
+OT 261@Human Physiology for Occupational Therapists
+OT 310@Creativity Workshop
+OT 312@Creating a Sustainable Lifestyle
+OT 320@The Nature of Human Occupation: Form, Function, and Meaning
+OT 375@The Narrative Structure of Social Action@Narrative, Healing and Occupation
+OT 401L@Practice Immersion: Physical Rehabilitation and Geriatrics
+OT 402L@Practice Immersion: Mental Health
+OT 403L@Practice Immersion: Pediatrics
+OT 405L@Foundations: Occupation
+OT 410@Therapeutic Use of Self
+OT 440L@Foundations: Kinesiology
+OT 451@Neuroscience of Behavior
+OT 470@Qualitative Research for Evidence-Based Practice
+OT 486@Clinical Internship with Seminar
+OT 490x@Directed Research
+PAS 371@Art in the Public Realm: Contemporary Issues
+PEDO 310@Principles of Dentistry for Children
+PHED 102a@Weight Training
+PHED 104a@Self-Defense
+PHED 106a@Physical Conditioning
+PHED 110a@Swimming
+PHED 115@Surfing
+PHED 120a@Yoga
+PHED 120b@Yoga
+PHED 124@Walking for Fitness
+PHED 129a@Aerobics
+PHED 131@Step Aerobics
+PHED 139a@Volleyball
+PHED 139b@Volleyball
+PHED 140a@Tennis
+PHED 143a@Racquetball
+PHED 150@Table Tennis
+PHED 154a@Soccer
+PHED 155@Golf
+PHED 156a@Basketball
+PHED 160@Stress Management for Healthy Living
+PHED 165@Varsity Athletics
+PHIL 101g@Philosophical Foundations of Modern Western Culture
+PHIL 115g@Ancient Greek Culture and Society
+PHIL 137gm@Social Ethics for Earthlings and Others
+PHIL 140g@Contemporary Moral and Social Issues
+PHIL 220g@Science, Religion, and the Making of the Modern Mind
+PHIL 242@Theories of Art
+PHIL 250a@Elementary Formal Logic
+PHIL 250b@Elementary Formal Logic
+PHIL 285Lg@Knowledge, Explanation, and the Cosmos
+PHIL 315@History of Western Philosophy: Ancient Period
+PHIL 337@History of Modern Political Philosophy
+PHIL 340@Ethics
+PHIL 350@Symbolic Logic
+PHIL 355@Existentialism
+PHIL 360@Epistemology and Metaphysics
+PHIL 411@Plato
+PHIL 427@Twentieth Century Anglo-American Philosophy
+PHIL 428@Anglo-American Philosophy Since 1950
+PHIL 431@Law, Society, and Politics
+PHIL 446@Aesthetics and the Film
+PHIL 450@Intermediate Symbolic Logic
+PHIL 460@Metaphysics
+PHIL 462@Philosophy of Mind
+PHIL 463@Theories of Action
+PHIL 465@Philosophy of Language
+PHIL 490x@Directed Research
+PHIL 494@Senior Thesis
+PHYS 100Lxg@The Physical World
+PHYS 135aL@Physics for the Life Sciences
+PHYS 135bL@Physics for the Life Sciences
+PHYS 151Lg@Fundamentals of Physics I: Mechanics and Thermodynamics
+PHYS 152L@Fundamentals of Physics II: Electricity and Magnetism
+PHYS 153L@Fundamentals of Physics III: Optics and Modern Physics
+PHYS 162L@Advanced Principles of Physics II
+PHYS 190@Freshman Colloquium
+PHYS 200Lxg@The Physics and Technology of Energy: Keeping the Motor Running
+PHYS 304@Mechanics
+PHYS 408a@Electricity and Magnetism
+PHYS 438b@Introduction to Quantum Mechanics and its Applications
+PHYS 490x@Directed Research
+PHYS 492L@Senior Lab
+PHYS 495@Senior Project
+PORT 120@Portuguese I
+PORT 220@Portuguese III
+POSC 100@Theory and Practice of American Democracy
+POSC 120@Comparative Politics
+POSC 130g@Law, Politics and Public Policy
+POSC 190a@Politics and Society
+POSC 201x@Law and Politics: Electing a President
+POSC 248g@International Human Rights
+POSC 315@Regulation of Elections and Political Finance
+POSC 320@Urban Politics
+POSC 322@Social Construction of Race and Citizenship
+POSC 335@Political Parties, Campaigns, and Elections
+POSC 340@Constitutional Law
+POSC 351@Middle East Politics
+POSC 356@Politics in the People's Republic of China
+POSC 358@Politics of Sub-Sahara Africa
+POSC 370@European Political Thought I
+POSC 377@Asian Political Thought
+POSC 380@Political Theories and Social Reform
+POSC 391@Honors I: Undergraduate Seminar
+POSC 395@Directed Governmental and Political Leadership Internship
+POSC 398@Trial Advocacy: Theory and Practice
+POSC 421@Ethnic Politics
+POSC 424m@Political Participation and American Diversity
+POSC 425@Legislative Process
+POSC 426@The United States Supreme Court
+POSC 427@Black Politics in the American Political System
+POSC 430@Political Economy of Mexico
+POSC 436@Environmental Politics
+POSC 439@Critical Issues in American Politics
+POSC 441m@Cultural Diversity and the Law
+POSC 450@Political Development
+POSC 453@Political Change in Asia
+POSC 464@Politics of Russia and Eastern Europe
+POSC 469@Critical Issues in Comparative Politics
+POSC 490x@Directed Research
+PPD 225@Public Policy and Management
+PPD 227@Urban Planning and Development
+PPD 240@Citizenship and Public Ethics
+PPD 245@The Urban Context for Policy and Planning
+PPD 250m@Third World Cities
+PPD 301@PPD Practices: Internship Seminar
+PPD 303@Statistics for Policy, Planning, and Development
+PPD 306@Visual Methods in Policy, Management, Planning and Development
+PPD 314@Public Policy and Law
+PPD 316@Human Resource Management for Public Organizations
+PPD 318@Financial Accounting in Public and Non-Profit Organizations
+PPD 325@Fundamentals of Health Policy and Management
+PPD 330@Introduction to Health Care Systems
+PPD 342@Crime and Public Policy
+PPD 357@Government and Business
+PPD 362@Real Estate Fundamentals for Planning and Development
+PPD 371@The Nonprofit Sector and the Public Interest
+PPD 373@Public Policy and Planning Analysis
+PPD 413@Administration of Health Care Organizations
+PPD 417@History of Planning and Development
+PPD 435@Analyzing Real Estate Markets for Planning and Development
+PPD 437@Advanced Finance and Investment for Planning and Development
+PPD 439@Housing and Community Development
+PPD 475@The Future of California
+PPD 485m@U.S. Immigration Policy
+PPD 490x@Directed Research
+PPD 498@Senior Honors Seminar
+PPD 499@Special Topics
+PSYC 100@Introduction to Psychology
+PSYC 201Lg@The Science of Happiness
+PSYC 248@Historical Foundations and Contemporary Trends in Psychology
+PSYC 274@Statistics I
+PSYC 275Lg@Language and Mind
+PSYC 305@Learning and Memory
+PSYC 314L@Research Methods
+PSYC 326@Behavioral Neuroscience
+PSYC 336L@Developmental Psychology
+PSYC 355@Social Psychology
+PSYC 359@Interpersonal Relations
+PSYC 360@Abnormal Psychology
+PSYC 361@Introduction to Clinical Psychology
+PSYC 391@Directed Field Experience in Psychology
+PSYC 406@Psycholinguistics
+PSYC 420@Animal Behavior
+PSYC 421L@Data Analysis for Psychological Research
+PSYC 422@Human Judgment and Decision Making
+PSYC 437@Adolescent Development
+PSYC 440@Introduction to Cognitive Neuroscience
+PSYC 451@Formation and Change of Attitudes
+PSYC 454@Social Cognition
+PSYC 462m@Minority Mental Health
+PSYC 463@Criminal Behavior
+PSYC 465@Introduction to Forensic Psychology
+PSYC 490x@Directed Research
+PSYC 499@Special Topics
+PTE 411x@Introduction to Transport Processes in Porous Media
+PTE 461@Formation Evaluation
+PTE 463L@Introduction to Transport Processes in Porous Media
+PTE 465L@Drilling Technology and Subsurface Methods
+PTE 490x@Directed Research
+REL 111g@The World of the Hebrew Bible
+REL 121g@The World of the New Testament
+REL 125g@Introduction to Christianity
+REL 134xg@Introduction to Buddhist Literature
+REL 301@Introduction to the Study of Religion
+REL 319@Religious and Ethical Issues in Death and Dying
+REL 331@Religions of East Asia
+REL 394@Near Eastern and Mediterranean Archaeology
+REL 442@Religion and Science
+REL 462@Religion and Violence
+REL 471@Jesus
+REL 490x@Directed Research
+REL 491x@Undergraduate Honors Research
+SAE 496@Systems Engineering Through Motorsports
+SLL 120@Beginning Russian I
+SLL 150@Beginning Russian II
+SLL 199@Chess and Critical Thinking
+SLL 220@Intermediate Russian I
+SLL 250@Intermediate Russian II
+SLL 270a@Russian for Native Speakers
+SLL 299@Chess - Advanced Thinking Techniques
+SLL 302@Modern Russian Literature
+SLL 310@Advanced Russian in Popular Culture
+SLL 330g@Russian Thought and Civilization
+SLL 465@Seminar in Russian Studies
+SLL 490x@Directed Research
+SOCI 150gm@Social Problems
+SOCI 200m@Introduction to Sociology
+SOCI 210g@Science, Technology, and Social Conflict
+SOCI 220gm@Questions of Intimacy
+SOCI 250gm@Grassroots Participation in Global Perspective
+SOCI 305m@Sociology of Childhood
+SOCI 313@Sociological Research Methods
+SOCI 314@Sociological Statistics
+SOCI 342m@Race Relations
+SOCI 355m@Immigrants in the United States
+SOCI 360m@Social Inequality: Class, Status, and Power
+SOCI 369@The Family in a Changing Society
+SOCI 370@Introduction to Sociological Theory
+SOCI 382@Judaism as an American Religion
+SOCI 408@Volunteers, Non-Governmental Organizations, and Everyday Politics
+SOCI 425@Crowds, Publics, and Social Movements
+SOCI 490x@Directed Research
+SOCI 494@Sociology Honors Seminar I
+SOWK 304@Children and Families in Urban America
+SOWK 350@Adolescent Gang Intervention
+SPAN 120@Spanish I
+SPAN 150@Spanish II
+SPAN 220@Spanish III
+SPAN 240@Spanish IV
+SPAN 260@Advanced Spanish: Arts and Sciences
+SPAN 261@Advanced Spanish: Society and the Media
+SPAN 280x@Conversational Spanish
+SPAN 301@Introduction to Hispanic Literature and Film
+SPAN 304@Survey of Fiction
+SPAN 308@Survey of Poetry
+SPAN 310@Structure of Spanish
+SPAN 316x@Spanish for the Professions
+SPAN 320@Iberian and Latin American Cultures: Readings on Society
+SPAN 373@Modern and Postmodern Spanish Fiction
+SPAN 375@Latin American Cultural and Literary Theory
+SPAN 385@The Culture of Food in Hispanic Los Angeles
+SPAN 413m@Social and Geographic Varieties of Spanish
+SPAN 464@Introduction to Contemporary Spanish Theatre
+SPAN 490x@Directed Research
+SPAN 499@Special Topics
+SWMS 140g@Contemporary Moral and Social Issues
+SWMS 215g@Gender Conflict in Cultural Contexts
+SWMS 301m@Introduction to Feminist Theory and the Women's and Men's Movements
+SWMS 305@Childhood, Birth and Reproduction
+SWMS 311@Gender Studies and the Community: Internship
+SWMS 316@Gender and Global Issues
+SWMS 347@Race, Gender and Power in Francophone Literature
+SWMS 355@Transgender Studies
+SWMS 369@The Family in a Changing Society
+SWMS 370@Family and Kinship in Cross-Cultural Perspective
+SWMS 382@Political Theories and Social Reform
+SWMS 384m@Gender, Social Inequality, and Social Justice
+SWMS 395m@Gender, Media and Communication
+SWMS 410@Senior Seminar in Gender Studies
+SWMS 412@Gender, Sexuality and Media
+SWMS 442m@Women's Spaces in History: "Hussies", Harems," and Housewives"
+SWMS 470@Women in English and American Literature after 1800
+SWMS 490x@Directed Research
+THTR 101@Introduction to Acting
+THTR 110@Dramatic Analysis
+THTR 115@Movement I
+THTR 120a@Acting I
+THTR 121ax@Fundamentals of Acting
+THTR 122@Improvisation and Theatre Games
+THTR 124ax@Character Acting
+THTR 125@Text Studies for Production
+THTR 130@Introduction to Theatrical Production
+THTR 132a@Art of Theatrical Design
+THTR 140a@Voice I
+THTR 152@Introduction to Scene Study
+THTR 181a@Modern Dance
+THTR 181b@Modern Dance
+THTR 183a@Ballet
+THTR 183b@Ballet
+THTR 183c@Ballet
+THTR 183d@Ballet
+THTR 184a@Jazz Dance
+THTR 184b@Jazz Dance
+THTR 184c@Jazz Dance
+THTR 185@Hip-Hop Dance
+THTR 188a@International Style Ballroom Dance
+THTR 188b@International Style Ballroom Dance
+THTR 189a@Tap Dance
+THTR 189b@Tap Dance
+THTR 211@Theory and Practice of World Theatre II
+THTR 215a@Movement II
+THTR 216@Movement for Actors
+THTR 220a@Intermediate Acting I
+THTR 222@Stage Make-up
+THTR 230@Communicating Theatrical Design Concepts
+THTR 231a@Costume Construction
+THTR 232@Stage Lighting
+THTR 236@Stage Sound
+THTR 240a@Voice II
+THTR 252a@Intermediate Acting I
+THTR 252b@Intermediate Acting I
+THTR 280@Dance as an Art Form
+THTR 295@Theatre in America
+THTR 301@Greek and Roman Theatre
+THTR 305a@Directing
+THTR 313@Comedy of Manners
+THTR 315a@Physical Theatre I
+THTR 316@Advanced Movement for Actors
+THTR 320a@Intermediate Acting II
+THTR 330@Scene Design I
+THTR 331@Costume Design I
+THTR 332@Lighting Design I
+THTR 333@Stage Management I
+THTR 335@Scenic Construction
+THTR 340a@Intermediate Voice
+THTR 342a@Basic Voice
+THTR 343@Musical Theatre Audition
+THTR 352a@Intermediate Acting II
+THTR 354@Acting Shakespeare
+THTR 365@Playwriting I
+THTR 385@Choreography and Performance
+THTR 388@Senior Seminar in Dance
+THTR 397@Theatre Practicum
+THTR 404@Acting Theory
+THTR 405m@Performing Identities
+THTR 406@Theatre on the Edge
+THTR 407a@Drawing and Rendering for the Theater
+THTR 408a@Dialects
+THTR 415a@Physical Theatre II
+THTR 420a@Advanced Acting
+THTR 421@Effective Oral Presentation
+THTR 432a@Scene Design II
+THTR 433a@Costume Design II
+THTR 434a@Lighting Design II
+THTR 436@Sound for Theatre
+THTR 440a@Advanced Voice
+THTR 442@Voice Over Acting
+THTR 452a@Advanced Acting
+THTR 458@Visiting Artist Workshop
+THTR 468@Theatre in Education
+THTR 472@Professional Preparation for Actors
+THTR 475@Acting on Camera: The Collaborative Process
+THTR 477@Theatre and Therapy
+THTR 479@Solo Performance
+THTR 480a@Performance for Camera
+THTR 480b@Performance for the Camera
+THTR 483@Dance Performance
+THTR 484@Acting in Television Commercials
+THTR 486@Creating Characters
+THTR 487@Promotion for the Performing Arts
+THTR 489@Theatre Internship
+THTR 490x@Directed Research
+THTR 491@Theatre Organization and Administration
+THTR 493a@Periods and Styles
+THTR 495@Experimental Theatre Workshop I
+THTR 497@Advanced Theatre Practicum
+THTR 499@Special Topics
+WRIT 095x@Writing Tutorial
+WRIT 120@Introduction to College Writing
+WRIT 121@Introduction to College Writing in a Second Language
+WRIT 140@Writing and Critical Reasoning
+WRIT 340@Advanced Writing

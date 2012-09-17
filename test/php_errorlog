@@ -1,0 +1,76 @@
+[10-Jan-2012 18:29:12] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 67
+[10-Jan-2012 18:29:12] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/classes/connections.php on line 70
+[10-Jan-2012 18:29:12] PHP Notice:  Undefined variable: shed in /home/adam1234/public_html/resources/classes/connections.php on line 89
+[10-Jan-2012 18:29:12] PHP Fatal error:  Call to a member function latest_term() on a non-object in /home/adam1234/public_html/resources/classes/connections.php on line 89
+[10-Jan-2012 18:30:08] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 67
+[10-Jan-2012 18:30:08] PHP Notice:  Undefined variable: shed in /home/adam1234/public_html/resources/classes/connections.php on line 89
+[10-Jan-2012 18:30:08] PHP Fatal error:  Call to a member function latest_term() on a non-object in /home/adam1234/public_html/resources/classes/connections.php on line 89
+[10-Jan-2012 18:30:34] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 67
+[10-Jan-2012 18:30:34] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/adam1234/public_html/resources/classes/connections.php on line 95
+[10-Jan-2012 18:30:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 67
+[10-Jan-2012 18:30:58] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/adam1234/public_html/resources/classes/connections.php on line 97
+[11-Jan-2012 07:39:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 67
+[11-Jan-2012 07:39:04] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/adam1234/public_html/resources/classes/connections.php on line 97
+[11-Jan-2012 07:40:12] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 67
+[11-Jan-2012 07:48:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 67
+[11-Jan-2012 07:48:36] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/adam1234/public_html/resources/classes/connections.php on line 97
+[11-Jan-2012 07:49:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 67
+[11-Jan-2012 07:49:30] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/classes/connections.php on line 98
+[11-Jan-2012 07:50:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 67
+[11-Jan-2012 07:50:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 67
+[14-Jan-2012 15:27:04] PHP Fatal error:  Call to undefined method Connections::is_classmate() in /home/adam1234/public_html/test/accessible.php on line 12
+[14-Jan-2012 15:27:27] PHP Warning:  Missing argument 3 for Connections::is_classmate(), called in /home/adam1234/public_html/test/accessible.php on line 12 and defined in /home/adam1234/public_html/resources/classes/connections.php on line 174
+[14-Jan-2012 15:27:27] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/classes/connections.php on line 179
+[14-Jan-2012 15:59:05] PHP Fatal error:  Call to undefined method Connections::is_past_class_mate() in /home/adam1234/public_html/test/accessible.php on line 13
+[14-Jan-2012 16:00:20] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:00:20] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[14-Jan-2012 16:00:21] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[14-Jan-2012 16:00:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:02:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:02:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:11:23] PHP Parse error:  syntax error, unexpected ';' in /home/adam1234/public_html/test/accessible.php on line 16
+[14-Jan-2012 16:12:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:12:35] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:33:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:33:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:34:26] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:34:27] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:35:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:35:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:37:55] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:37:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:38:16] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:38:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:41:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:41:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:41:10] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:41:11] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:41:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:42:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:42:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:42:57] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:44:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:44:06] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:44:21] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:44:23] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:45:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:45:08] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:45:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:45:49] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:46:11] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:46:12] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:46:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:47:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:47:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:47:57] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:48:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:49:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:51:03] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[14-Jan-2012 16:51:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[16-Jan-2012 11:32:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[16-Jan-2012 11:32:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[16-Jan-2012 11:32:06] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[16-Jan-2012 11:32:19] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[16-Jan-2012 11:32:20] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7

@@ -1,0 +1,528 @@
+[11-Jan-2012 11:04:49] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[11-Jan-2012 11:04:49] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[11-Jan-2012 11:04:49] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[11-Jan-2012 11:04:50] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[11-Jan-2012 11:04:50] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[11-Jan-2012 11:04:56] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[11-Jan-2012 11:04:56] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[11-Jan-2012 11:04:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[11-Jan-2012 11:05:07] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[11-Jan-2012 11:05:07] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[11-Jan-2012 11:05:09] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[11-Jan-2012 11:05:10] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[11-Jan-2012 22:20:34] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[11-Jan-2012 22:20:34] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/view.php on line 12
+[11-Jan-2012 22:20:34] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/view.php on line 16
+[11-Jan-2012 22:20:34] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[11-Jan-2012 22:20:34] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/resources/classes/schedule.php on line 10
+[11-Jan-2012 22:20:34] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 94
+[11-Jan-2012 22:20:34] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[11-Jan-2012 22:20:34] PHP Warning:  Missing argument 3 for UI::notification(), called in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 147 and defined in /home/adam1234/public_html/resources/classes/interface.php on line 5
+[11-Jan-2012 22:20:34] PHP Notice:  Undefined variable: margin in /home/adam1234/public_html/resources/classes/interface.php on line 29
+[12-Jan-2012 07:23:39] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 07:23:39] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 07:23:39] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 07:23:40] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[12-Jan-2012 07:23:40] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[12-Jan-2012 07:26:07] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 07:26:07] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 07:26:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 07:26:08] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[12-Jan-2012 07:26:08] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[12-Jan-2012 07:27:04] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 07:27:04] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 07:27:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 07:27:05] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[12-Jan-2012 07:27:05] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[12-Jan-2012 07:31:47] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 07:31:47] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 07:31:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 07:31:47] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[12-Jan-2012 07:31:47] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[12-Jan-2012 07:32:33] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 07:32:33] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 07:32:33] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 07:32:33] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[12-Jan-2012 07:32:33] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[12-Jan-2012 07:34:32] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[12-Jan-2012 07:34:32] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[12-Jan-2012 07:34:34] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[12-Jan-2012 07:34:34] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230
+[12-Jan-2012 07:39:38] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 07:39:38] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 07:39:38] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 07:39:39] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[12-Jan-2012 07:39:39] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[12-Jan-2012 07:45:31] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 07:45:31] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 07:45:31] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 07:45:31] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[12-Jan-2012 07:45:31] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[12-Jan-2012 08:21:33] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[12-Jan-2012 08:21:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[12-Jan-2012 08:21:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[12-Jan-2012 08:21:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[12-Jan-2012 08:21:33] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[12-Jan-2012 08:21:33] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[12-Jan-2012 08:21:33] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[12-Jan-2012 08:21:33] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 77
+[12-Jan-2012 08:21:33] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230
+[12-Jan-2012 08:27:02] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 08:27:02] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 08:27:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 08:27:03] PHP Warning:  Missing argument 3 for UI::notification(), called in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 147 and defined in /home/adam1234/public_html/resources/classes/interface.php on line 5
+[12-Jan-2012 08:27:03] PHP Notice:  Undefined variable: margin in /home/adam1234/public_html/resources/classes/interface.php on line 29
+[12-Jan-2012 08:27:15] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 08:27:15] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 08:27:15] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 08:27:16] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[12-Jan-2012 08:27:19] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 08:27:19] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 08:27:19] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 11:52:16] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 11:52:16] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 11:52:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 11:52:18] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[12-Jan-2012 11:52:21] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[12-Jan-2012 11:52:21] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[12-Jan-2012 11:52:21] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[12-Jan-2012 15:17:39] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[12-Jan-2012 15:17:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[12-Jan-2012 15:17:39] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[12-Jan-2012 15:17:39] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[12-Jan-2012 15:17:39] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[12-Jan-2012 15:17:39] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[12-Jan-2012 15:17:39] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[12-Jan-2012 15:17:39] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[12-Jan-2012 15:17:39] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[12-Jan-2012 15:17:39] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[12-Jan-2012 15:17:39] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[12-Jan-2012 15:17:40] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[13-Jan-2012 21:31:16] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[13-Jan-2012 21:31:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[13-Jan-2012 21:31:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[13-Jan-2012 21:31:16] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[13-Jan-2012 21:31:16] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[13-Jan-2012 21:31:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[13-Jan-2012 21:31:17] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[13-Jan-2012 21:31:17] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 77
+[13-Jan-2012 21:31:17] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230
+[13-Jan-2012 21:36:15] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[13-Jan-2012 21:36:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[13-Jan-2012 21:36:15] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[13-Jan-2012 21:36:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[13-Jan-2012 21:36:15] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[13-Jan-2012 21:36:15] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[13-Jan-2012 21:36:15] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[13-Jan-2012 21:36:15] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[13-Jan-2012 21:36:15] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[13-Jan-2012 21:36:15] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[13-Jan-2012 21:36:15] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[13-Jan-2012 21:36:15] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[14-Jan-2012 04:56:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[14-Jan-2012 04:56:56] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/view.php on line 12
+[14-Jan-2012 04:56:56] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/view.php on line 16
+[14-Jan-2012 04:56:57] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[14-Jan-2012 04:56:57] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/resources/classes/schedule.php on line 10
+[14-Jan-2012 04:56:57] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 94
+[14-Jan-2012 04:56:57] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[14-Jan-2012 04:56:57] PHP Warning:  Missing argument 3 for UI::notification(), called in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 147 and defined in /home/adam1234/public_html/resources/classes/interface.php on line 5
+[14-Jan-2012 04:56:57] PHP Notice:  Undefined variable: margin in /home/adam1234/public_html/resources/classes/interface.php on line 29
+[15-Jan-2012 14:49:01] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jan-2012 14:49:01] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jan-2012 14:49:01] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jan-2012 14:49:01] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[15-Jan-2012 14:49:01] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[15-Jan-2012 14:49:01] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[15-Jan-2012 14:49:01] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[15-Jan-2012 14:49:01] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 77
+[15-Jan-2012 14:49:01] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230
+[15-Jan-2012 15:07:31] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/add_class.php on line 2
+[15-Jan-2012 15:07:31] PHP Notice:  Undefined index: ajax in /home/adam1234/public_html/resources/modules/schedule/add_class.php on line 3
+[15-Jan-2012 15:07:31] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/add_class.php on line 16
+[15-Jan-2012 15:07:31] PHP Notice:  Undefined index: ajax in /home/adam1234/public_html/account/schedule/add_class.php on line 23
+[16-Jan-2012 01:16:15] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[16-Jan-2012 01:16:15] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/view.php on line 12
+[16-Jan-2012 01:16:15] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/view.php on line 16
+[16-Jan-2012 01:16:16] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[16-Jan-2012 01:16:16] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/resources/classes/schedule.php on line 10
+[16-Jan-2012 01:16:16] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 94
+[16-Jan-2012 01:16:16] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[16-Jan-2012 01:16:16] PHP Warning:  Missing argument 3 for UI::notification(), called in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 147 and defined in /home/adam1234/public_html/resources/classes/interface.php on line 5
+[16-Jan-2012 01:16:16] PHP Notice:  Undefined variable: margin in /home/adam1234/public_html/resources/classes/interface.php on line 29
+[16-Jan-2012 03:54:09] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[16-Jan-2012 03:54:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[16-Jan-2012 03:54:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[16-Jan-2012 03:54:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[16-Jan-2012 03:54:09] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[16-Jan-2012 03:54:09] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[16-Jan-2012 03:54:09] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[16-Jan-2012 03:54:09] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[16-Jan-2012 03:54:09] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[16-Jan-2012 03:54:09] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[16-Jan-2012 03:54:09] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[16-Jan-2012 03:54:09] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[16-Jan-2012 12:35:00] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[16-Jan-2012 12:35:00] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[16-Jan-2012 12:35:02] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[16-Jan-2012 12:35:02] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[16-Jan-2012 12:35:02] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[16-Jan-2012 12:35:02] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[16-Jan-2012 12:35:03] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[16-Jan-2012 12:35:41] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[16-Jan-2012 12:35:41] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[16-Jan-2012 12:35:41] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[16-Jan-2012 12:35:42] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[16-Jan-2012 12:35:46] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/core/header.php on line 10
+[16-Jan-2012 12:35:46] PHP Notice:  Undefined variable: logoutUrl in /home/adam1234/public_html/core/header.php on line 12
+[16-Jan-2012 12:35:46] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[16-Jan-2012 12:41:23] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[16-Jan-2012 12:41:23] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/view.php on line 12
+[16-Jan-2012 12:41:23] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/view.php on line 16
+[16-Jan-2012 12:41:23] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[16-Jan-2012 12:41:23] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/resources/classes/schedule.php on line 10
+[16-Jan-2012 12:41:23] PHP Notice:  Undefined index: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 94
+[16-Jan-2012 12:41:23] PHP Notice:  Undefined variable: term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 96
+[16-Jan-2012 12:41:23] PHP Warning:  Missing argument 3 for UI::notification(), called in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 147 and defined in /home/adam1234/public_html/resources/classes/interface.php on line 5
+[16-Jan-2012 12:41:23] PHP Notice:  Undefined variable: margin in /home/adam1234/public_html/resources/classes/interface.php on line 29
+[16-Jan-2012 13:28:09] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[16-Jan-2012 13:28:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[16-Jan-2012 13:28:09] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[16-Jan-2012 13:28:09] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[16-Jan-2012 13:28:09] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[16-Jan-2012 13:28:09] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[16-Jan-2012 13:28:09] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[16-Jan-2012 13:28:09] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 77
+[16-Jan-2012 13:28:09] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230
+[17-Jan-2012 02:11:40] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 02:11:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 02:11:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 02:11:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[17-Jan-2012 02:11:40] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[17-Jan-2012 02:11:40] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[17-Jan-2012 02:11:40] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[17-Jan-2012 02:11:40] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[17-Jan-2012 02:11:40] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[17-Jan-2012 02:11:40] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[17-Jan-2012 02:11:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[17-Jan-2012 02:11:41] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[17-Jan-2012 06:54:50] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 06:54:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 06:54:50] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 06:54:50] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[17-Jan-2012 06:54:50] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[17-Jan-2012 06:54:51] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[17-Jan-2012 06:54:51] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[17-Jan-2012 06:54:51] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 77
+[17-Jan-2012 06:54:51] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230
+[17-Jan-2012 12:09:33] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 12:09:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 12:09:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 12:09:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[17-Jan-2012 12:09:33] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[17-Jan-2012 12:09:33] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[17-Jan-2012 12:09:33] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[17-Jan-2012 12:09:33] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[17-Jan-2012 12:09:33] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[17-Jan-2012 12:09:33] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[17-Jan-2012 12:09:33] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[17-Jan-2012 12:09:33] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[17-Jan-2012 22:59:51] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 22:59:51] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 22:59:51] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[17-Jan-2012 22:59:51] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[17-Jan-2012 22:59:51] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[17-Jan-2012 22:59:52] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[17-Jan-2012 22:59:52] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[17-Jan-2012 22:59:52] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 77
+[17-Jan-2012 22:59:52] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230
+[19-Jan-2012 05:19:38] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Jan-2012 05:19:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Jan-2012 05:19:38] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Jan-2012 05:19:38] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[19-Jan-2012 05:19:38] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[19-Jan-2012 05:19:38] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[19-Jan-2012 05:19:38] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[19-Jan-2012 05:19:38] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[19-Jan-2012 05:19:38] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[19-Jan-2012 05:19:38] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[19-Jan-2012 05:19:38] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[19-Jan-2012 05:19:39] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[19-Jan-2012 05:19:43] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Jan-2012 05:19:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Jan-2012 05:19:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Jan-2012 05:19:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[19-Jan-2012 05:19:43] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[19-Jan-2012 05:19:43] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[19-Jan-2012 05:19:43] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[19-Jan-2012 05:19:43] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 77
+[19-Jan-2012 05:19:43] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230
+[19-Jan-2012 16:06:44] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Jan-2012 16:06:44] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Jan-2012 16:06:44] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Jan-2012 16:06:45] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[19-Jan-2012 16:06:45] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[19-Jan-2012 16:06:45] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[19-Jan-2012 16:06:45] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[19-Jan-2012 16:06:45] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[19-Jan-2012 16:06:45] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[19-Jan-2012 16:06:45] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[19-Jan-2012 16:06:45] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[19-Jan-2012 16:06:45] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[20-Jan-2012 02:58:03] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[20-Jan-2012 02:58:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[20-Jan-2012 02:58:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[20-Jan-2012 02:58:03] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[20-Jan-2012 02:58:03] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[20-Jan-2012 02:58:03] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[20-Jan-2012 02:58:03] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[20-Jan-2012 02:58:03] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 77
+[20-Jan-2012 02:58:03] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230
+[21-Jan-2012 00:53:40] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jan-2012 00:53:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jan-2012 00:53:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jan-2012 00:53:40] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[21-Jan-2012 00:53:40] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[21-Jan-2012 00:53:40] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[21-Jan-2012 00:53:40] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[21-Jan-2012 00:53:40] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[21-Jan-2012 00:53:40] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[21-Jan-2012 00:53:40] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[21-Jan-2012 00:53:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[21-Jan-2012 00:53:41] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[21-Jan-2012 11:28:48] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jan-2012 11:28:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jan-2012 11:28:48] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jan-2012 11:28:48] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[21-Jan-2012 11:28:48] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[21-Jan-2012 11:28:48] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[21-Jan-2012 11:28:48] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[21-Jan-2012 11:28:48] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 77
+[21-Jan-2012 11:28:48] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230
+[21-Jan-2012 22:30:42] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jan-2012 22:30:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jan-2012 22:30:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jan-2012 22:30:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[21-Jan-2012 22:30:42] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[21-Jan-2012 22:30:43] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[21-Jan-2012 22:30:43] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[21-Jan-2012 22:30:43] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[21-Jan-2012 22:30:43] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[21-Jan-2012 22:30:43] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[21-Jan-2012 22:30:43] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[21-Jan-2012 22:30:43] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[22-Jan-2012 08:54:33] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[22-Jan-2012 08:54:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[22-Jan-2012 08:54:33] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[22-Jan-2012 08:54:33] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[22-Jan-2012 08:54:33] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[22-Jan-2012 08:54:34] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[22-Jan-2012 08:54:34] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[22-Jan-2012 08:54:34] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 77
+[22-Jan-2012 08:54:34] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230
+[22-Jan-2012 16:36:23] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[22-Jan-2012 16:36:23] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[22-Jan-2012 16:36:26] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:36:27] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 74
+[22-Jan-2012 16:36:27] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/classes/schedule.php on line 184
+[22-Jan-2012 16:39:01] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[22-Jan-2012 16:39:01] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[22-Jan-2012 16:39:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:09] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:11] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:12] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:14] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:39:14] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:16] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:39:16] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:18] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:20] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:22] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:24] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:26] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:28] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:31] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:34] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:39] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:41] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:43] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:45] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:47] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:39:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:48] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:39:48] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:50] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:52] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:54] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:39:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:56] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:39:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:39:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:06] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:09] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:09] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:11] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:11] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:13] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:15] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:19] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:21] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:22] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:24] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:26] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:28] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:28] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:30] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:34] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:36] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:38] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:38] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:40] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:43] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:43] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:45] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:48] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:50] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:50] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:52] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:52] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:54] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:56] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:40:58] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:40:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:00] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:02] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:04] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:06] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:06] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:08] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:08] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:10] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:10] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:11] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:11] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:13] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:13] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:15] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:15] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:17] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:19] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:19] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:22] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:24] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:26] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:26] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:27] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:27] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:29] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:29] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:31] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:31] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:33] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:33] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:35] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:35] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:38] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:40] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:42] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:44] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:44] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:46] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:46] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:49] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:51] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:51] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:53] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:53] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:54] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:56] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:56] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:41:58] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:41:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:00] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:06] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:06] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:08] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:08] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:10] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:12] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:13] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:13] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:15] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:15] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:18] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:20] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:20] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:22] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:22] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:24] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:24] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:25] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:25] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:27] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:29] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:30] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:32] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:34] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:34] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Jan-2012 16:42:36] PHP Notice:  Undefined offset: 0 in /home/adam1234/public_html/resources/classes/connections.php on line 197
+[22-Jan-2012 16:42:36] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 118
+[23-Jan-2012 09:18:43] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[23-Jan-2012 09:18:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[23-Jan-2012 09:18:43] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[23-Jan-2012 09:18:43] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[23-Jan-2012 09:18:43] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[23-Jan-2012 09:18:43] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[23-Jan-2012 09:18:43] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[23-Jan-2012 09:18:43] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[23-Jan-2012 09:18:43] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[23-Jan-2012 09:18:43] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[23-Jan-2012 09:18:43] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[23-Jan-2012 09:18:43] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[23-Jan-2012 09:20:04] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[23-Jan-2012 09:20:04] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[23-Jan-2012 09:20:04] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[23-Jan-2012 09:20:04] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[23-Jan-2012 09:20:04] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[23-Jan-2012 09:20:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[23-Jan-2012 09:20:04] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[23-Jan-2012 09:20:04] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 77
+[23-Jan-2012 09:20:04] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 230

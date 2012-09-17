@@ -1,0 +1,345 @@
+[28-Jun-2011 12:28:47] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/account/schedule/classmates.php on line 64
+[28-Jun-2011 12:28:47] PHP Notice:  Undefined index:  u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[28-Jun-2011 12:28:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[28-Jun-2011 12:28:48] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[29-Jun-2011 06:29:19] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[29-Jun-2011 06:29:21] PHP Notice:  Undefined variable: term_label in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[29-Jun-2011 06:29:21] PHP Notice:  Undefined variable: sched in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 88
+[29-Jun-2011 06:29:21] PHP Warning:  array_map() [<a href='function.array-map'>function.array-map</a>]: Argument #2 should be an array in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 06:29:21] PHP Warning:  array_multisort() [<a href='function.array-multisort'>function.array-multisort</a>]: Argument #1 is expected to be an array or a sort flag in /home/adam1234/public_html/resources/classes/sort.php on line 18
+[29-Jun-2011 06:29:21] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 88
+[29-Jun-2011 06:30:05] PHP Notice:  Undefined index:  ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[29-Jun-2011 06:30:06] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[29-Jun-2011 06:30:07] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/classes/schedule.php on line 115
+[29-Jun-2011 06:30:07] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 118
+[29-Jun-2011 06:32:25] PHP Notice:  Undefined variable: userInfo in /home/adam1234/public_html/account/schedule/classmates.php on line 64
+[29-Jun-2011 06:32:25] PHP Notice:  Undefined index:  ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[29-Jun-2011 06:32:35] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[29-Jun-2011 06:32:42] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/classes/schedule.php on line 115
+[29-Jun-2011 06:32:42] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 118
+[29-Jun-2011 14:45:12] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[29-Jun-2011 14:45:12] PHP Notice:  Undefined index:  u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 222
+[29-Jun-2011 14:48:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/add_class.php on line 2
+[29-Jun-2011 14:48:07] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/schedule/add_class.php on line 3
+[29-Jun-2011 14:55:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[29-Jun-2011 14:55:58] PHP Notice:  Undefined index:  u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 222
+[29-Jun-2011 14:56:13] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/add_class.php on line 2
+[29-Jun-2011 14:56:13] PHP Notice:  Undefined index:  is_sent in /home/adam1234/public_html/resources/modules/schedule/add_class.php on line 3
+[29-Jun-2011 16:16:03] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[29-Jun-2011 16:16:06] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 57
+[29-Jun-2011 16:16:07] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 62
+[29-Jun-2011 16:16:07] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 57
+[29-Jun-2011 16:16:07] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 62
+[29-Jun-2011 16:16:07] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 57
+[29-Jun-2011 16:16:07] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 62
+[29-Jun-2011 16:16:07] PHP Notice:  Undefined variable: term_label in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[29-Jun-2011 16:16:07] PHP Notice:  Undefined variable: sched in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 88
+[29-Jun-2011 16:16:07] PHP Warning:  array_map() [<a href='function.array-map'>function.array-map</a>]: Argument #2 should be an array in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:16:07] PHP Warning:  array_multisort() [<a href='function.array-multisort'>function.array-multisort</a>]: Argument #1 is expected to be an array or a sort flag in /home/adam1234/public_html/resources/classes/sort.php on line 18
+[29-Jun-2011 16:16:07] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 88
+[29-Jun-2011 16:20:57] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/account/schedule/view_schedule.php on line 22
+[29-Jun-2011 16:21:25] PHP Notice:  Array to string conversion in /home/adam1234/public_html/account/schedule/view_schedule.php on line 52
+[29-Jun-2011 16:21:25] PHP Notice:  Array to string conversion in /home/adam1234/public_html/account/schedule/view_schedule.php on line 52
+[29-Jun-2011 16:21:25] PHP Notice:  Array to string conversion in /home/adam1234/public_html/account/schedule/view_schedule.php on line 52
+[29-Jun-2011 16:21:25] PHP Notice:  Array to string conversion in /home/adam1234/public_html/account/schedule/view_schedule.php on line 52
+[29-Jun-2011 16:21:25] PHP Notice:  Array to string conversion in /home/adam1234/public_html/account/schedule/view_schedule.php on line 52
+[29-Jun-2011 16:21:35] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[29-Jun-2011 16:21:37] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:21:37] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:21:37] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:21:37] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:21:37] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:21:37] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:21:37] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:21:37] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:21:37] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:21:37] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:21:37] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:21:37] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:21:37] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:23:09] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[29-Jun-2011 16:23:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[29-Jun-2011 16:23:32] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:23:32] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:23:32] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:23:32] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:23:32] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:23:32] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:23:32] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:23:32] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:23:32] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:23:32] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:23:32] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:23:32] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:23:32] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:43:47] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[29-Jun-2011 16:43:50] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:43:50] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:43:50] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:43:50] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:43:50] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:43:50] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:43:50] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:43:50] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:43:50] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:43:50] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:43:50] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:43:50] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:43:50] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:44:34] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[29-Jun-2011 16:44:39] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:44:39] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:44:39] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:44:39] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:44:39] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:44:39] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:44:39] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:44:39] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:44:39] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:44:39] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:44:39] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:44:39] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:44:39] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:47:11] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[29-Jun-2011 16:47:14] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:47:14] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:47:14] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:47:14] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:47:14] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:47:14] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:47:14] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:47:14] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:47:14] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:47:14] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:47:14] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:47:15] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:47:15] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:48:16] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[29-Jun-2011 16:48:18] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:48:18] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:48:18] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:48:18] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:48:18] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:48:18] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:48:18] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:48:18] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:48:18] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:48:18] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:48:18] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:48:18] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:48:18] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:49:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[29-Jun-2011 16:49:39] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:49:39] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:49:39] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:49:39] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:49:39] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:49:40] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:49:40] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:49:40] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:49:40] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:49:40] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:49:40] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:49:40] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:49:40] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:50:06] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[29-Jun-2011 16:50:11] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:50:12] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:50:12] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:50:12] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:50:12] PHP Notice:  Array to string conversion in /home/adam1234/public_html/resources/classes/sort.php on line 16
+[29-Jun-2011 16:50:12] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:50:12] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:50:12] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:50:12] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:50:12] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:50:12] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:50:12] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[29-Jun-2011 16:50:12] PHP Notice:  Undefined index:  cl_id in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 95
+[10-Jul-2011 06:04:35] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:04:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[10-Jul-2011 06:04:36] PHP Notice:  Undefined index:  u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 228
+[10-Jul-2011 06:05:17] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:05:18] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[10-Jul-2011 06:05:18] PHP Notice:  Undefined index:  u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 228
+[10-Jul-2011 06:22:03] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:22:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[10-Jul-2011 06:22:05] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:22:05] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 70
+[10-Jul-2011 06:22:06] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 75
+[10-Jul-2011 06:22:06] PHP Notice:  Undefined variable: term_label in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 94
+[10-Jul-2011 06:22:06] PHP Notice:  Undefined variable: sched in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 103
+[10-Jul-2011 06:22:06] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 103
+[10-Jul-2011 06:22:14] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:22:16] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[10-Jul-2011 06:22:16] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:27:52] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:27:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[10-Jul-2011 06:27:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:40:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:40:10] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[10-Jul-2011 06:40:10] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:44:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:44:59] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[10-Jul-2011 06:45:00] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:50:31] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:50:32] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[10-Jul-2011 06:50:33] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:51:43] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:51:44] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[10-Jul-2011 06:51:44] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:27:25] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:27:25] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:27:28] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[15-Jul-2011 16:27:29] PHP Notice:  Undefined variable: term_label in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 94
+[15-Jul-2011 16:27:29] PHP Notice:  Undefined variable: sched in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 107
+[15-Jul-2011 16:27:29] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 107
+[15-Jul-2011 16:28:27] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:28:27] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:28:31] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[15-Jul-2011 16:28:32] PHP Notice:  Undefined variable: term_label in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 94
+[15-Jul-2011 16:28:32] PHP Notice:  Undefined variable: sched in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 107
+[15-Jul-2011 16:28:32] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 107
+[15-Jul-2011 16:30:59] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:30:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:31:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[15-Jul-2011 16:31:03] PHP Notice:  Undefined variable: term_label in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 94
+[15-Jul-2011 16:31:03] PHP Notice:  Undefined variable: sched in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 100
+[15-Jul-2011 16:31:03] PHP Notice:  Undefined variable: sched in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 107
+[15-Jul-2011 16:31:03] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 107
+[15-Jul-2011 16:32:37] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:32:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:32:39] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[15-Jul-2011 16:32:40] PHP Notice:  Undefined variable: term_label in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 102
+[15-Jul-2011 16:32:40] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 115
+[15-Jul-2011 16:33:46] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:33:46] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:33:50] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[15-Jul-2011 16:33:51] PHP Notice:  Undefined variable: term_label in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 102
+[15-Jul-2011 16:33:51] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 115
+[15-Jul-2011 16:34:03] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:34:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:34:06] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[15-Jul-2011 16:34:07] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 116
+[15-Jul-2011 16:37:16] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:37:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:37:22] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[15-Jul-2011 16:37:24] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 117
+[15-Jul-2011 16:37:42] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:37:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[15-Jul-2011 16:37:46] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[15-Jul-2011 16:37:48] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 117
+[21-Jul-2011 09:41:30] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:41:30] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:41:36] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[21-Jul-2011 09:43:01] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:43:02] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:43:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[21-Jul-2011 09:43:05] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[21-Jul-2011 09:43:05] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 84
+[21-Jul-2011 09:43:05] PHP Notice:  Undefined variable: term_label in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 103
+[21-Jul-2011 09:43:26] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:43:26] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:43:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[21-Jul-2011 09:49:31] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:49:31] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:49:34] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[21-Jul-2011 09:49:40] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:49:40] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:49:42] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[21-Jul-2011 09:50:57] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:50:57] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:50:59] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[21-Jul-2011 09:51:15] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:51:16] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:51:18] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[21-Jul-2011 09:51:19] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 79
+[21-Jul-2011 09:51:19] PHP Notice:  Undefined index:  term in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 84
+[21-Jul-2011 09:51:19] PHP Notice:  Undefined variable: term_label in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 103
+[21-Jul-2011 09:51:27] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:51:28] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:51:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[21-Jul-2011 09:55:10] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:55:10] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:55:13] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:55:13] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:55:16] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/view_full.php on line 2
+[19-Aug-2011 12:54:54] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Aug-2011 12:54:54] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Aug-2011 12:54:54] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Aug-2011 12:54:54] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/create.php on line 12
+[19-Aug-2011 12:54:54] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/create.php on line 16
+[19-Aug-2011 12:54:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[19-Aug-2011 12:54:54] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 18
+[19-Aug-2011 12:54:54] PHP Notice:  Undefined index: u_college_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 76
+[19-Aug-2011 12:54:54] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 228
+[20-Aug-2011 17:32:03] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[20-Aug-2011 17:32:03] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[20-Aug-2011 17:32:04] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[20-Aug-2011 17:32:04] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 228
+[20-Aug-2011 17:35:31] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/add_class.php on line 2
+[20-Aug-2011 17:35:31] PHP Notice:  Undefined index: is_sent in /home/adam1234/public_html/resources/modules/schedule/add_class.php on line 3
+[20-Aug-2011 17:36:52] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[20-Aug-2011 17:36:52] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[20-Aug-2011 17:36:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[20-Aug-2011 17:36:59] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[20-Aug-2011 17:36:59] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[20-Aug-2011 17:37:01] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[20-Aug-2011 17:37:01] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[20-Aug-2011 17:37:01] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[20-Aug-2011 17:37:01] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[20-Aug-2011 17:37:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[21-Aug-2011 19:00:17] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Aug-2011 19:00:17] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Aug-2011 19:00:18] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[21-Aug-2011 19:00:18] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[21-Aug-2011 19:00:18] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[21-Aug-2011 19:00:18] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[21-Aug-2011 19:00:19] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[21-Aug-2011 19:02:44] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Aug-2011 19:02:44] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Aug-2011 19:02:44] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Aug-2011 19:02:44] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[21-Aug-2011 19:02:44] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[21-Aug-2011 19:02:44] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[21-Aug-2011 19:02:44] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[21-Aug-2011 19:02:44] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[21-Aug-2011 19:02:44] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[21-Aug-2011 19:02:44] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[21-Aug-2011 19:02:44] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[21-Aug-2011 19:02:44] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[22-Aug-2011 23:37:42] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[22-Aug-2011 23:37:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cookie - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[22-Aug-2011 23:37:42] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[22-Aug-2011 23:37:42] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/account/schedule/classmates.php on line 12
+[22-Aug-2011 23:37:42] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/account/schedule/classmates.php on line 16
+[22-Aug-2011 23:37:42] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 5
+[22-Aug-2011 23:37:42] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[22-Aug-2011 23:37:42] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[22-Aug-2011 23:37:42] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[22-Aug-2011 23:37:42] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[22-Aug-2011 23:37:42] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[22-Aug-2011 23:37:42] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[23-Aug-2011 02:58:47] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[23-Aug-2011 02:58:47] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[23-Aug-2011 02:58:49] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/create.php on line 5
+[23-Aug-2011 02:58:49] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/modules/schedule/create.php on line 228
+[23-Aug-2011 03:00:22] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/schedule/add_class.php on line 2
+[23-Aug-2011 03:00:22] PHP Notice:  Undefined index: is_sent in /home/adam1234/public_html/resources/modules/schedule/add_class.php on line 3
+[24-Aug-2011 01:57:24] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[24-Aug-2011 01:57:24] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[24-Aug-2011 01:57:26] PHP Notice:  Undefined index: ce_class_id in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 34
+[24-Aug-2011 01:57:26] PHP Notice:  Undefined index: ce_recurrence in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 35
+[24-Aug-2011 01:57:26] PHP Notice:  Undefined index: ce_start_time in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 36
+[24-Aug-2011 01:57:26] PHP Notice:  Undefined index: ce_term in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 37
+[24-Aug-2011 01:57:26] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[24-Aug-2011 01:57:28] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/modules/schedule/classmates.php on line 118
+[02-Oct-2011 12:14:05] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't create a new thread (errno 12); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/adam1234/public_html/resources/db.php on line 9
+[02-Oct-2011 12:14:05] PHP Fatal error:  Can't create a new thread (errno 12); if you are not out of available memory, you can consult the manual for a possible OS-dependent bug in /home/adam1234/public_html/resources/db.php on line 9
+[02-Nov-2011 10:14:16] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/adam1234/public_html/resources/db.php on line 9
+[02-Nov-2011 10:14:16] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/adam1234/public_html/resources/db.php on line 9
+[02-Nov-2011 14:08:53] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/adam1234/public_html/resources/db.php on line 9
+[02-Nov-2011 14:08:53] PHP Fatal error:  Can't connect to local MySQL server through socket '/var/lib/mysql/mysql.sock' (2) in /home/adam1234/public_html/resources/db.php on line 9

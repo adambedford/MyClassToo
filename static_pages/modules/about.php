@@ -1,0 +1,7 @@
+<h1>About My Class Too</h1>
+<h2 class="st_head">What is My Class Too.com?</h3>
+<p>My Class Too.com is a website that allows college students to easily share their class schedules with friends and others who need it. With My Clas/s Too.com you can quickly see what classes you're taking with your friends, who's in each of your class sections, what times your friends get out of class and even plan to take a class with someone the upcoming semester!</p>
+<h2 class="st_head">Why sign up for My Class Too?</h3>
+<p>Everytime registration rolls around for the next semester I always see my friends post screenshots of their new schedule on Facebook and other social networking sites in order to share their schedule and find out if anyone they know is going to be in class with them. My Class Too takes the hassle out of this process and makes it simple to create and share your schedule. Automatically post your schedule to Facebook once you've made it and your friends will instantly know what classes you're taking!<p>
+<h2 class="st_head">What if I don't know my schedule yet?</h3>
+<p>My Class Too provides a great way to get inspiration for what classes to take if you havent decided yet! Not only can you see which classes your friends are in, but you can see who is in each section. You can also see what classes are most popular at your school if you're in need of a GE credit or elective!</p>

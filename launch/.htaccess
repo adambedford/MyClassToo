@@ -1,0 +1,6 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^launch\.myclasstoo\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.launch\.myclasstoo\.com$
+RewriteRule ^/?$ "sites\.launchrock\.com" [R=301,L]
+

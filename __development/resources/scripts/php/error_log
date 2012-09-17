@@ -1,0 +1,79 @@
+[28-Jun-2011 12:29:52] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[28-Jun-2011 12:30:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[28-Jun-2011 12:30:12] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[28-Jun-2011 14:41:54] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[28-Jun-2011 14:41:55] PHP Fatal error:  Uncaught OAuthException: An active access token must be used to query information about the current user.
+  thrown in /home/adam1234/public_html/resources/lib/facebook/base_facebook.php on line 970
+[29-Jun-2011 15:05:10] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[06-Jul-2011 11:30:23] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[06-Jul-2011 11:31:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[06-Jul-2011 11:31:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[06-Jul-2011 11:31:31] PHP Warning:  Invalid argument supplied for foreach() in /home/adam1234/public_html/resources/scripts/php/autocomplete_user_search.php on line 15
+[08-Jul-2011 15:37:07] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[08-Jul-2011 15:37:31] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[08-Jul-2011 15:37:32] PHP Fatal error:  Call to undefined function  term_to_label() in /home/adam1234/public_html/resources/scripts/php/fb_share_sched.php on line 11
+[09-Jul-2011 17:52:37] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 05:29:45] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:04:30] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:21:58] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 06:51:52] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 09:19:41] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 16:50:37] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 16:50:37] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[10-Jul-2011 16:50:38] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[21-Jul-2011 09:55:26] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:55:26] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:55:27] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[21-Jul-2011 09:55:49] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:55:49] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[21-Jul-2011 09:55:51] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[21-Jul-2011 23:23:40] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[28-Jul-2011 18:43:22] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[28-Jul-2011 20:34:33] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[12-Aug-2011 09:18:39] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[18-Aug-2011 07:09:56] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[18-Aug-2011 07:09:56] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[18-Aug-2011 07:09:56] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[18-Aug-2011 07:09:57] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[18-Aug-2011 07:09:58] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[18-Aug-2011 07:09:59] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/classes/connections.php on line 7
+[19-Aug-2011 01:53:12] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[19-Aug-2011 01:53:12] PHP Notice:  Undefined index: u_id in /home/adam1234/public_html/resources/scripts/php/fb_share_sched.php on line 15
+[19-Aug-2011 01:53:12] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[19-Aug-2011 01:53:12] PHP Notice:  Undefined variable: publishStream in /home/adam1234/public_html/resources/scripts/php/fb_share_sched.php on line 44
+[19-Aug-2011 01:53:12] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/scripts/php/fb_share_sched.php on line 52
+[03-Sep-2011 07:55:19] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[10-Sep-2011 02:04:33] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[11-Sep-2011 01:09:58] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[13-Sep-2011 18:06:28] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[16-Sep-2011 01:52:09] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[18-Sep-2011 02:16:21] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[20-Sep-2011 21:59:37] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[22-Sep-2011 07:43:33] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[24-Sep-2011 07:09:01] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[25-Sep-2011 13:06:45] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[26-Sep-2011 20:14:54] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[28-Sep-2011 07:51:08] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[30-Sep-2011 19:16:59] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[01-Oct-2011 16:39:48] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[03-Oct-2011 05:47:23] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[04-Oct-2011 12:06:25] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[05-Oct-2011 21:25:34] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[07-Oct-2011 20:03:24] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[10-Oct-2011 01:41:52] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[11-Oct-2011 11:58:41] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[12-Oct-2011 21:54:32] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[14-Oct-2011 18:21:44] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[16-Oct-2011 14:46:50] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[17-Oct-2011 22:21:07] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[19-Oct-2011 08:46:20] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[20-Oct-2011 04:55:21] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[22-Oct-2011 19:04:37] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[25-Oct-2011 04:30:11] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[26-Oct-2011 02:08:43] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[28-Oct-2011 17:56:48] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[30-Oct-2011 06:54:24] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[31-Oct-2011 15:17:36] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[02-Nov-2011 01:28:39] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[03-Nov-2011 12:58:03] OAuthException: (#803) Some of the aliases you requested do not exist: 0
+[04-Nov-2011 22:16:25] OAuthException: (#803) Some of the aliases you requested do not exist: 0

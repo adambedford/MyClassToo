@@ -1,0 +1,4 @@
+[12-Jan-2012 07:33:01] PHP Notice:  Undefined variable: _SESSION in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[12-Jan-2012 07:33:01] PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at /home/adam1234/public_html/resources/auth/fbmain.php:2) in /home/adam1234/public_html/resources/auth/fbmain.php on line 2
+[12-Jan-2012 07:33:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/settings/user_info.php on line 2
+[12-Jan-2012 07:33:02] PHP Notice:  A session had already been started - ignoring session_start() in /home/adam1234/public_html/resources/modules/settings/change_college.php on line 2
